@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Sahifa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-22 15:33+0200\n"
-"PO-Revision-Date: 2015-09-29 20:01+0300\n"
+"PO-Revision-Date: 2015-09-30 20:12+0300\n"
 "Last-Translator: Fouad Badawy <support@tielabs.com>\n"
 "Language-Team: Tielabs <info@tielabs.com>\n"
 "Language: ru\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../404.php:6 ../framework/functions/translation.php:8
 msgid "404 :("
-msgstr ""
+msgstr "404 :("
 
 #: ../404.php:7 ../framework/functions/breadcrumbs.php:125
 #: ../framework/functions/translation.php:6
@@ -1186,57 +1186,57 @@ msgstr "Метки"
 #: ../framework/admin/framework-builder.php:722
 #: ../framework/admin/framework-panel.php:613
 msgid "Enter a tag name, or names separated by comma."
-msgstr ""
+msgstr "Введите имя метки, или имена меток через запятую."
 
 #: ../framework/admin/framework-builder.php:556
 #: ../framework/admin/framework-builder.php:738
 #: ../framework/admin/framework-panel.php:621
 msgid "Hold CTRL while selecting to select multiple categories."
-msgstr ""
+msgstr "Удерживайте CTRL во время выбора, чтобы выбрать несколько рубрик."
 
 #: ../framework/admin/framework-builder.php:568
 #: ../framework/admin/framework-builder.php:750
 msgid "Selective Posts IDs"
-msgstr ""
+msgstr "ID выбранных записей"
 
 #: ../framework/admin/framework-builder.php:569
 #: ../framework/admin/framework-builder.php:751
 msgid "Enter a post ID, or IDs separated by comma."
-msgstr ""
+msgstr "Введите ID записи, или идентификаторы, разделенные запятыми."
 
 #: ../framework/admin/framework-builder.php:574
 #: ../framework/admin/framework-builder.php:756
 msgid "Selective Pages IDs"
-msgstr ""
+msgstr "ID выбранных страниц"
 
 #: ../framework/admin/framework-builder.php:575
 #: ../framework/admin/framework-builder.php:757
 msgid "Enter a page ID, or IDs separated by comma."
-msgstr ""
+msgstr "Введите ID страницы, или идентификаторы, разделенные запятыми."
 
 #: ../framework/admin/framework-builder.php:581
 #: ../framework/admin/framework-builder.php:763
 msgid "Choose your custom slider"
-msgstr ""
+msgstr "Выберите ваш пользовательский слайдер"
 
 #: ../framework/admin/framework-builder.php:589
 msgid "Slider Settings"
-msgstr ""
+msgstr "Настройки слайдера"
 
 #: ../framework/admin/framework-builder.php:597
 #: ../framework/admin/framework-category.php:147
 msgid "Slider Type"
-msgstr ""
+msgstr "Тип слайдера"
 
 #: ../framework/admin/framework-builder.php:600
 #: ../framework/admin/framework-category.php:151
 msgid "FlexSlider"
-msgstr ""
+msgstr "Адаптивный слайдер FlexSlider"
 
 #: ../framework/admin/framework-builder.php:601
 #: ../framework/admin/framework-category.php:152
 msgid "Elastic Slideshow"
-msgstr ""
+msgstr "Эластичное слайд-шоу"
 
 #: ../framework/admin/framework-builder.php:606
 #: ../framework/admin/framework-builder.php:642
@@ -1244,106 +1244,106 @@ msgstr ""
 #: ../framework/admin/framework-category.php:198
 #: ../framework/admin/framework-panel.php:571
 msgid "Animation Effect"
-msgstr ""
+msgstr "Эффект анимации"
 
 #: ../framework/admin/framework-builder.php:611
 #: ../framework/admin/framework-category.php:164
 msgid "Sides"
-msgstr ""
+msgstr "Слайды"
 
 #: ../framework/admin/framework-builder.php:614
 #: ../framework/admin/framework-category.php:167
 #: ../framework/widgets/widget-soundcloud.php:56
 msgid "Autoplay"
-msgstr ""
+msgstr "Автовоспроизведение"
 
 #: ../framework/admin/framework-builder.php:646
 #: ../framework/admin/framework-category.php:203
 #: ../framework/admin/framework-panel.php:575
 msgid "Fade"
-msgstr ""
+msgstr "Затемнение"
 
 #: ../framework/admin/framework-builder.php:647
 #: ../framework/admin/framework-category.php:204
 msgid "Slide Vertical"
-msgstr ""
+msgstr "Слайд вертикали"
 
 #: ../framework/admin/framework-builder.php:648
 #: ../framework/admin/framework-category.php:205
 msgid "Slide Horizontal"
-msgstr ""
+msgstr "Слайд горизонтальный"
 
 #: ../framework/admin/framework-builder.php:671
 #: ../framework/admin/framework-category.php:230
 msgid "Show Slides Caption"
-msgstr ""
+msgstr "Показывать подпись слайдов"
 
 #: ../framework/admin/framework-builder.php:676
 #: ../framework/admin/framework-category.php:236
 msgid "Slides Caption Length"
-msgstr ""
+msgstr "Длина отрывка для новостей"
 
 #: ../framework/admin/framework-builder.php:683
 msgid "Slider Position"
-msgstr ""
+msgstr "Позиция слайдера"
 
 #: ../framework/admin/framework-category.php:40
 #: ../framework/admin/framework-metaboxes.php:49
 #: ../framework/admin/framework-panel.php:1879 ../framework/widgets.php:21
 msgid "Shop - For WooCommerce Pages"
-msgstr ""
+msgstr "Магазин - для WooCommerce страниц"
 
 #: ../framework/admin/framework-category.php:50
 #: ../framework/functions/mega-menus.php:360
 #: ../framework/widgets/widget-slider.php:150
 msgid "Disable"
-msgstr ""
+msgstr "Отключено"
 
 #: ../framework/admin/framework-category.php:76
 msgid "Category Layout"
-msgstr ""
+msgstr "Макет рубрик"
 
 #: ../framework/admin/framework-category.php:114
 msgid "Category Sidebar"
-msgstr ""
+msgstr "Боковая панель рубрики"
 
 #: ../framework/admin/framework-category.php:118
 msgid "Custom Sidebar"
-msgstr ""
+msgstr "Пользовательская боковая панель"
 
 #: ../framework/admin/framework-category.php:130
 msgid "Category Slider"
-msgstr ""
+msgstr "Слайдер рубрики"
 
 #: ../framework/admin/framework-category.php:247
 msgid "Category Logo"
-msgstr ""
+msgstr "Логотип рубрики"
 
 #: ../framework/admin/framework-category.php:250
 msgid "Custom Logo"
-msgstr ""
+msgstr "Пользовательский логотип"
 
 #: ../framework/admin/framework-category.php:256
 msgid "Logo Setting"
-msgstr ""
+msgstr "Настройки логотипа"
 
 #: ../framework/admin/framework-category.php:260
 #: ../framework/admin/framework-panel.php:393
 msgid "Custom Image Logo"
-msgstr ""
+msgstr "Пользовательские изображения логотипа"
 
 #: ../framework/admin/framework-category.php:261
 msgid "Display The Category Title"
-msgstr ""
+msgstr "Показать заголовок рубрики"
 
 #: ../framework/admin/framework-category.php:266
 msgid "Custom Logo Image"
-msgstr ""
+msgstr "Пользовательские изображения логотипа"
 
 #: ../framework/admin/framework-category.php:272
 #: ../framework/admin/framework-panel.php:404
 msgid "Logo Image (Retina Version @2x)"
-msgstr ""
+msgstr "Изображение логотипа для Retina (версия @ 2x)"
 
 #: ../framework/admin/framework-category.php:276
 #: ../framework/admin/framework-panel.php:407
@@ -1351,11 +1351,13 @@ msgid ""
 "Please choose an image file for the retina version of the logo. It should be "
 "2x the size of main logo."
 msgstr ""
+"Выберите файл изображения для Retina логотипа. Оно должно быть 2x размера "
+"основного логотипа."
 
 #: ../framework/admin/framework-category.php:279
 #: ../framework/admin/framework-panel.php:410
 msgid "Standard Logo Width for Retina Logo"
-msgstr ""
+msgstr "Стандартная ширина для Retina логотипа"
 
 #: ../framework/admin/framework-category.php:283
 #: ../framework/admin/framework-panel.php:413
@@ -1363,11 +1365,13 @@ msgid ""
 "If retina logo is uploaded, please enter the standard logo (1x) version "
 "width, do not enter the retina logo width."
 msgstr ""
+"Если Retina логотип загружен, введите стандартную ширину (1x) логотипа, не "
+"вводите ширину Retina логотипа."
 
 #: ../framework/admin/framework-category.php:286
 #: ../framework/admin/framework-panel.php:416
 msgid "Standard Logo Height for Retina Logo"
-msgstr ""
+msgstr "Стандартная высота для Retina логотипа"
 
 #: ../framework/admin/framework-category.php:290
 #: ../framework/admin/framework-panel.php:419
@@ -1375,24 +1379,26 @@ msgid ""
 "If retina logo is uploaded, please enter the standard logo (1x) version "
 "height, do not enter the retina logo height."
 msgstr ""
+"Если Retina логотип загружен, введите стандартную ширину (1x) логотипа, не "
+"вводите ширину Retina логотипа."
 
 #: ../framework/admin/framework-category.php:294
 #: ../framework/admin/framework-panel.php:422
 msgid "Logo Margin Top"
-msgstr ""
+msgstr "Внешний отступ сверху для логотипа"
 
 #: ../framework/admin/framework-category.php:303
 #: ../framework/admin/framework-panel.php:431
 msgid "Logo Margin Bottom"
-msgstr ""
+msgstr "Внешний отступ снизу для логотипа"
 
 #: ../framework/admin/framework-category.php:314
 msgid "Category Style"
-msgstr ""
+msgstr "Стиль рубрики"
 
 #: ../framework/admin/framework-category.php:317
 msgid "Main Color"
-msgstr ""
+msgstr "Основной цвет"
 
 #: ../framework/admin/framework-category.php:323
 #: ../framework/admin/framework-metaboxes.php:244
@@ -1400,815 +1406,830 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:2381
 #: ../framework/admin/framework-panel.php:2497
 msgid "Background"
-msgstr ""
+msgstr "Фон"
 
 #: ../framework/admin/framework-category.php:329
 #: ../framework/admin/framework-metaboxes.php:249
 #: ../framework/admin/framework-panel.php:2306
 msgid "Full Screen Background"
-msgstr ""
+msgstr "Фон на полный экран"
 
 #: ../framework/admin/framework-metaboxes.php:7
 msgid "Post Options"
-msgstr ""
+msgstr "Параметры новости"
 
 #: ../framework/admin/framework-metaboxes.php:8
 msgid "Page Options"
-msgstr ""
+msgstr "Параметры страницы"
 
 #: ../framework/admin/framework-metaboxes.php:9
 msgid "More Options"
-msgstr ""
+msgstr "Больше настроек"
 
 #: ../framework/admin/framework-metaboxes.php:70
 #: ../framework/admin/framework-metaboxes.php:72
 #: ../framework/admin/framework-panel.php:601
 #: ../framework/functions/translation.php:58 ../template-sitemap.php:41
 msgid "Categories"
-msgstr ""
+msgstr "Рубрики"
 
 #: ../framework/admin/framework-metaboxes.php:97
 msgid "Authors template Options"
-msgstr ""
+msgstr "Параметры шаблона автора"
 
 #: ../framework/admin/framework-metaboxes.php:99
 msgid "User Roles"
-msgstr ""
+msgstr "Роли пользователей"
 
 #: ../framework/admin/framework-metaboxes.php:115
 msgid "Post Head Options"
-msgstr ""
+msgstr "Опции шапки новости"
 
 #: ../framework/admin/framework-metaboxes.php:119
 msgid "Post Head Cover layout"
-msgstr ""
+msgstr "Шапка новости - макет обложки"
 
 #: ../framework/admin/framework-metaboxes.php:124
 msgid "Display"
-msgstr ""
+msgstr "Отображение"
 
 #: ../framework/admin/framework-metaboxes.php:129
 msgid "None"
-msgstr ""
+msgstr "Нет"
 
 #: ../framework/admin/framework-metaboxes.php:131
 msgid "Audio - Self Hosted"
-msgstr ""
+msgstr "Аудио - саморазмещённое"
 
 #: ../framework/admin/framework-metaboxes.php:132
 msgid "Audio - SoundCloud"
-msgstr ""
+msgstr "Аудио - в облаке SoundCloud"
 
 #: ../framework/admin/framework-metaboxes.php:135
 msgid "Featured Image"
-msgstr ""
+msgstr "Рекомендуемое изображение"
 
 #: ../framework/admin/framework-metaboxes.php:136
 msgid "Featured Image + Lightbox"
-msgstr ""
+msgstr "Рекомендуемое изображение + Lightbox"
 
 #: ../framework/admin/framework-metaboxes.php:140
 #: ../framework/widgets/widget-video.php:79
 msgid "Embed Code"
-msgstr ""
+msgstr "Код для вставки"
 
 #: ../framework/admin/framework-metaboxes.php:145
 msgid ""
 "Video URL <br /><small>supports : YouTube, Vimeo, Viddler, Qik, Hulu, "
 "FunnyOrDie, DailyMotion, WordPress.tv and blip.tv</small>"
 msgstr ""
+"Видео URL <br /><small>поддерживает: YouTube, Vimeo, Viddler, Qik, Hulu, "
+"FunnyOrDie, Dailymotion, WordPress.tv и blip.tv</small>"
 
 #: ../framework/admin/framework-metaboxes.php:150
 msgid "Self Hosted Video"
-msgstr ""
+msgstr "Видео на собственном хостинге"
 
 #: ../framework/admin/framework-metaboxes.php:155
 #: ../framework/admin/framework-panel.php:856
 msgid "SoundCloud URL"
-msgstr ""
+msgstr "SoundCloud URL"
 
 #: ../framework/admin/framework-metaboxes.php:160
 msgid "Auto Play"
-msgstr ""
+msgstr "Автовоспроизведение:"
 
 #: ../framework/admin/framework-metaboxes.php:165
 #: ../framework/widgets/widget-soundcloud.php:60
 msgid "Visual Style"
-msgstr ""
+msgstr "Стиль"
 
 #: ../framework/admin/framework-metaboxes.php:180
 msgid "OGA file URL"
-msgstr ""
+msgstr "URL OGG файла"
 
 #: ../framework/admin/framework-metaboxes.php:200
 msgid "Sidebar Options"
-msgstr ""
+msgstr "Параметры боковой панели"
 
 #: ../framework/admin/framework-metaboxes.php:225
 msgid "Choose Sidebar"
-msgstr ""
+msgstr "Выберите боковую панель"
 
 #: ../framework/admin/framework-metaboxes.php:235
 msgid "Custom Styles"
-msgstr ""
+msgstr "Пользовательские стили CSS"
 
 #: ../framework/admin/framework-metaboxes.php:239
 msgid "Custom color"
-msgstr ""
+msgstr "﻿Пользовательский цвет"
 
 #: ../framework/admin/framework-metaboxes.php:258
 msgid "Ads Options"
-msgstr ""
+msgstr "Параметры рекламы"
 
 #: ../framework/admin/framework-metaboxes.php:262
 msgid "Hide Above Banner"
-msgstr ""
+msgstr "Скрыть верхний баннер"
 
 #: ../framework/admin/framework-metaboxes.php:267
 msgid "Custom Above Banner"
-msgstr ""
+msgstr "Пользовательский верхний баннер"
 
 #: ../framework/admin/framework-metaboxes.php:272
 msgid "Hide Below Banner"
-msgstr ""
+msgstr "Скрыть нижний баннер"
 
 #: ../framework/admin/framework-metaboxes.php:277
 msgid "Custom Below Banner"
-msgstr ""
+msgstr "Пользовательский нижний баннер"
 
 #: ../framework/admin/framework-metaboxes.php:292
 msgid "Hide Post Meta"
-msgstr ""
+msgstr "Скрыть метаданные новости"
 
 #: ../framework/admin/framework-metaboxes.php:300
 msgid "Hide Author Information"
-msgstr ""
+msgstr "Скрыть информацию об авторе"
 
 #: ../framework/admin/framework-metaboxes.php:308
 msgid "Hide Share Buttons"
-msgstr ""
+msgstr "Скрыть кнопки \"SHARE\"  (\"Поделиться\")"
 
 #: ../framework/admin/framework-metaboxes.php:316
 msgid "Hide Related Posts"
-msgstr ""
+msgstr "Скрыть Похожие новости"
 
 #: ../framework/admin/framework-metaboxes.php:324
 msgid "Hide Fly Check Also Box"
-msgstr ""
+msgstr "Скрыть всплывающее окно (Fly Box) \"Проверьте также\""
 
 #: ../framework/admin/framework-options.php:14
 msgid "Default Font"
-msgstr ""
+msgstr "Шрифт по умолчанию"
 
 #: ../framework/admin/framework-options.php:23
 msgid "Variants"
-msgstr ""
+msgstr "Варианты"
 
 #: ../framework/admin/framework-options.php:42
 msgid "Choose from the most used tags"
-msgstr ""
+msgstr "Выбрать из часто используемых тэгов"
 
 #: ../framework/admin/framework-options.php:115
 #: ../framework/admin/framework-options.php:164
 #: ../framework/functions/theme-functions.php:621
 msgid "Upload"
-msgstr ""
+msgstr "Загрузить"
 
 #: ../framework/admin/framework-options.php:172
 #: ../framework/functions/mega-menus.php:402
 msgid "repeat"
-msgstr ""
+msgstr "повтор"
 
 #: ../framework/admin/framework-options.php:173
 #: ../framework/functions/mega-menus.php:401
 msgid "no-repeat"
-msgstr ""
+msgstr "без повтора"
 
 #: ../framework/admin/framework-options.php:174
 #: ../framework/functions/mega-menus.php:403
 msgid "repeat-x"
-msgstr ""
+msgstr "повтор-х"
 
 #: ../framework/admin/framework-options.php:175
 #: ../framework/functions/mega-menus.php:404
 msgid "repeat-y"
-msgstr ""
+msgstr "повтор-у"
 
 #: ../framework/admin/framework-options.php:180
 msgid "Fixed"
-msgstr ""
+msgstr "Фиксированный"
 
 #: ../framework/admin/framework-options.php:181
 msgid "Scroll"
-msgstr ""
+msgstr "Прокрутка"
 
 #: ../framework/admin/framework-options.php:193
 #: ../framework/functions/mega-menus.php:396
 msgid "Top"
-msgstr ""
+msgstr "Лучшие"
 
 #: ../framework/admin/framework-options.php:194
 #: ../framework/functions/mega-menus.php:397
 msgid "Bottom"
-msgstr ""
+msgstr "Снизу"
 
 #: ../framework/admin/framework-options.php:286
 msgid "Bold"
-msgstr ""
+msgstr "Жирный"
 
 #: ../framework/admin/framework-options.php:287
 msgid "Lighter"
-msgstr ""
+msgstr "Более легкий"
 
 #: ../framework/admin/framework-options.php:288
 msgid "Bolder"
-msgstr ""
+msgstr "Более жирный"
 
 #: ../framework/admin/framework-options.php:303
 msgid "Italic"
-msgstr ""
+msgstr "Наклонный"
 
 #: ../framework/admin/framework-options.php:304
 msgid "Oblique"
-msgstr ""
+msgstr "Косой"
 
 #: ../framework/admin/framework-panel.php:67
 msgid "Theme Settings"
-msgstr ""
+msgstr "Настройки темы"
 
 #: ../framework/admin/framework-panel.php:68
 #: ../framework/admin/inc/importer/tie-importer.php:191
 #: ../framework/admin/inc/importer/tie-importer.php:204
 msgid "Import Demo Data"
-msgstr ""
+msgstr "Импорт демо-данных"
 
 #: ../framework/admin/framework-panel.php:69
 msgid "Documentation"
-msgstr ""
+msgstr "Документация"
 
 #: ../framework/admin/framework-panel.php:70
 msgid "Support"
-msgstr ""
+msgstr "Поддержка"
 
 #: ../framework/admin/framework-panel.php:175
 msgid "Save Changes"
-msgstr ""
+msgstr "Сохранить изменения"
 
 #: ../framework/admin/framework-panel.php:187
 #: ../framework/admin/framework-panel.php:209
 #: ../framework/admin/framework-panel.php:1929
 msgid "General Settings"
-msgstr ""
+msgstr "Основные настройки"
 
 #: ../framework/admin/framework-panel.php:188
 #: ../framework/admin/framework-panel.php:384
 msgid "Header Settings"
-msgstr ""
+msgstr "Настройки «шапки»"
 
 #: ../framework/admin/framework-panel.php:189
 #: ../framework/admin/framework-panel.php:1925
 msgid "Archives Settings"
-msgstr ""
+msgstr "Настойки архивов"
 
 #: ../framework/admin/framework-panel.php:190
 #: ../framework/admin/framework-panel.php:1052
 #: ../framework/admin/framework-panel.php:1055
 msgid "Posts Settings"
-msgstr ""
+msgstr "Настройки новостей"
 
 #: ../framework/admin/framework-panel.php:191
 #: ../framework/admin/framework-panel.php:1793
 msgid "Sidebars"
-msgstr ""
+msgstr "Боковые панели (сайдбары)"
 
 #: ../framework/admin/framework-panel.php:192
 #: ../framework/admin/framework-panel.php:1283
 msgid "Footer Settings"
-msgstr ""
+msgstr "Настройки подвала"
 
 #: ../framework/admin/framework-panel.php:193
 msgid "Ads Settings"
-msgstr ""
+msgstr "Настройки Рекламы"
 
 #: ../framework/admin/framework-panel.php:194
 #: ../framework/admin/framework-panel.php:2183
 msgid "Styling"
-msgstr ""
+msgstr "Моделирование"
 
 #: ../framework/admin/framework-panel.php:195
 #: ../framework/admin/framework-panel.php:2543
 msgid "Typography"
-msgstr ""
+msgstr "Типография"
 
 #: ../framework/admin/framework-panel.php:196
 #: ../framework/admin/framework-panel.php:2686
 msgid "Translations"
-msgstr ""
+msgstr "Переводы"
 
 #: ../framework/admin/framework-panel.php:197
 #: ../framework/admin/framework-panel.php:667
 #: ../framework/admin/framework-panel.php:687
 #: ../framework/functions/theme-functions.php:649
 msgid "Social Networking"
-msgstr ""
+msgstr "Социальные сети"
 
 #: ../framework/admin/framework-panel.php:198
 msgid "Advanced"
-msgstr ""
+msgstr "Продвинутые"
 
 #: ../framework/admin/framework-panel.php:199
 msgid "Rate"
-msgstr ""
+msgstr "Голосовать!"
 
 #: ../framework/admin/framework-panel.php:200
 msgid "More Themes"
-msgstr ""
+msgstr "Другие темы"
 
 #: ../framework/admin/framework-panel.php:212
 msgid "bbPress Settings"
-msgstr ""
+msgstr "Параметры bbPress"
 
 #: ../framework/admin/framework-panel.php:215
 msgid "bbPress Full width"
-msgstr ""
+msgstr "bbPress Полная ширина"
 
 #: ../framework/admin/framework-panel.php:223
 msgid "Theme Layout"
-msgstr ""
+msgstr "Расположение"
 
 #: ../framework/admin/framework-panel.php:247
 #: ../framework/admin/framework-panel.php:250
 msgid "Custom Favicon"
-msgstr ""
+msgstr "Значок сайта (favicon)"
 
 #: ../framework/admin/framework-panel.php:256
 #: ../framework/admin/framework-panel.php:259
 msgid "Custom Gravatar"
-msgstr ""
+msgstr "Пользовательский Gravatar"
 
 #: ../framework/admin/framework-panel.php:265
 msgid "Apple Icons"
-msgstr ""
+msgstr "Apple иконки"
 
 #: ../framework/admin/framework-panel.php:268
 msgid "Apple iPhone Icon"
-msgstr ""
+msgstr "Apple iPhone иконка"
 
 #: ../framework/admin/framework-panel.php:271
 msgid "Icon for Apple iPhone (57px x 57px)"
-msgstr ""
+msgstr "Иконка для Apple iPhone (57x х 57x)"
 
 #: ../framework/admin/framework-panel.php:274
 msgid "Apple iPhone Retina Icon"
-msgstr ""
+msgstr "IPhone Apple Retina иконка"
 
 #: ../framework/admin/framework-panel.php:277
 msgid "Icon for Apple iPhone Retina Version (120px x 120px)"
-msgstr ""
+msgstr "Значок для Apple iPhone Retina версии (120px x 120px)"
 
 #: ../framework/admin/framework-panel.php:280
 msgid "Apple iPad Icon"
-msgstr ""
+msgstr "Apple iPad иконка"
 
 #: ../framework/admin/framework-panel.php:283
 msgid "Icon for Apple iPhone (72px x 72px)"
-msgstr ""
+msgstr "Иконка для Apple iPhone (72px x 72px)"
 
 #: ../framework/admin/framework-panel.php:286
 msgid "Apple iPad Retina Icon"
-msgstr ""
+msgstr "Apple iPad Retina иконка"
 
 #: ../framework/admin/framework-panel.php:289
 msgid "Icon for Apple iPad Retina Version (144px x 144px)"
-msgstr ""
+msgstr "Значок для Apple iPhone Retina версии (144px x 144px)"
 
 #: ../framework/admin/framework-panel.php:295
 msgid "Time format"
-msgstr ""
+msgstr "Формат времени"
 
 #: ../framework/admin/framework-panel.php:298
 msgid "Time format for blog posts"
-msgstr ""
+msgstr "Формат времени для новостей"
 
 #: ../framework/admin/framework-panel.php:301
 msgid "Traditional"
-msgstr ""
+msgstr "Традиционный"
 
 #: ../framework/admin/framework-panel.php:302
 msgid "Time Ago Format"
-msgstr ""
+msgstr "Формат времени \"тому назад\""
 
 #: ../framework/admin/framework-panel.php:303
 msgid "Disable all"
-msgstr ""
+msgstr "Отключить все"
 
 #: ../framework/admin/framework-panel.php:308
 msgid "Lightbox Settings"
-msgstr ""
+msgstr "Настройки Lightbox (полноэкранного просмотрщика)"
 
 #: ../framework/admin/framework-panel.php:311
 msgid "Enable Lightbox Automatically"
-msgstr ""
+msgstr "Включить Lightbox автоматически"
 
 #: ../framework/admin/framework-panel.php:312
 msgid ""
 "Enable Lightbox automatically for all images linked to an image file in the "
 "post content area"
 msgstr ""
+"Включить Lightbox автоматически для всех изображений, связанных с файлом "
+"изображения в области содержимого записи"
 
 #: ../framework/admin/framework-panel.php:317
 msgid "Enable Lightbox for WordPress Galleries"
-msgstr ""
+msgstr "Включить Lightbox для WordPress галерей"
 
 #: ../framework/admin/framework-panel.php:318
 msgid ""
 "Enable Lightbox automatically for all images added via [gallery] shortcode "
 "in the content area"
 msgstr ""
+"Включить Lightbox автоматически для всех изображений, добавленных через "
+"короткий код [gallery]  в область содержимого"
 
 #: ../framework/admin/framework-panel.php:323
 msgid "Lightbox Skin"
-msgstr ""
+msgstr "Оболочка (skin) для Lightbox"
 
 #: ../framework/admin/framework-panel.php:335
 msgid "Lightbox Thumbnail Position"
-msgstr ""
+msgstr "Позиция миниатюры Lightbox"
 
 #: ../framework/admin/framework-panel.php:342
 msgid "Show Lightbox Arrows"
-msgstr ""
+msgstr "Показать cтрелки Lightbox"
 
 #: ../framework/admin/framework-panel.php:351
 msgid "Breadcrumbs Settings"
-msgstr ""
+msgstr "Настройки  \"хлебные крошки\""
 
 #: ../framework/admin/framework-panel.php:354
 msgid "Breadcrumbs"
-msgstr ""
+msgstr "Хлебные крошки"
 
 #: ../framework/admin/framework-panel.php:359
 msgid "Breadcrumbs Delimiter"
-msgstr ""
+msgstr "Разделитель \"хлебных крошек\""
 
 #: ../framework/admin/framework-panel.php:366
 msgid "Header Code"
-msgstr ""
+msgstr "Код в шапке (header) сайта"
 
 #: ../framework/admin/framework-panel.php:368
 msgid ""
 "The following code will add to the &lt;head&gt; tag. Useful if you need to "
 "add additional codes such as CSS or JS."
 msgstr ""
+"Следующий код добавит тег в &lt; шапку &gt;. Полезно, если вам нужно "
+"добавить дополнительные коды, такие как CSS или JS."
 
 #: ../framework/admin/framework-panel.php:374
 msgid "Footer Code"
-msgstr ""
+msgstr "Код в подвале сайта (footer)"
 
 #: ../framework/admin/framework-panel.php:376
 msgid ""
 "The following code will add to the footer before the closing  &lt;/body&gt; "
 "tag. Useful if you need to add Javascript or tracking code."
 msgstr ""
+"Следующий код будет доблен перед закрывающим тегом &lt;/ body&gt; . Полезно, "
+"если вам нужно добавить JavaScript функции или код отслеживания."
 
 #: ../framework/admin/framework-panel.php:387
 msgid "Logo"
-msgstr ""
+msgstr "Лого"
 
 #: ../framework/admin/framework-panel.php:390
 msgid "Logo Settings"
-msgstr ""
+msgstr "Настройки логотипа"
 
 #: ../framework/admin/framework-panel.php:394
 msgid "Display Site Title"
-msgstr ""
+msgstr "Показать название сайта"
 
 #: ../framework/admin/framework-panel.php:397
 msgid "Logo Image"
-msgstr ""
+msgstr "Изображения Логотипа"
 
 #: ../framework/admin/framework-panel.php:399
 msgid ""
 "Upload a logo image, or enter URL to an image if it is already uploaded. the "
 "theme default logo gets applied if the input field is left blank."
 msgstr ""
+"Загрузить изображение логотипа, или введите URL-адрес для изображения, если "
+"он уже загружен. Тема логотипа  по умолчанию применяется, если поле "
+"оставлено пустым."
 
 #: ../framework/admin/framework-panel.php:401
 msgid "Recommended size (MAX) : 190px x 60px"
-msgstr ""
+msgstr "Рекомендуемый размер (MAX) : 190px x 60px"
 
 #: ../framework/admin/framework-panel.php:425
 msgid "Input number to set the top space of the logo."
-msgstr ""
+msgstr "Введите число для задания величины внешнего отступа сверху логотипа"
 
 #: ../framework/admin/framework-panel.php:434
 msgid "Input number to set the bottom space of the logo."
-msgstr ""
+msgstr "Введите число, чтобы задать пространство внизу логотипа"
 
 #: ../framework/admin/framework-panel.php:440
 msgid "Full Width Logo"
-msgstr ""
+msgstr "Логотип на всю ширину"
 
 #: ../framework/admin/framework-panel.php:443
 msgid "Recommended logo width : 1045px"
-msgstr ""
+msgstr "Рекомендуемая ширина логотипа: 1045px"
 
 #: ../framework/admin/framework-panel.php:446
 msgid "Center the Logo"
-msgstr ""
+msgstr "Логотип по центру"
 
 #: ../framework/admin/framework-panel.php:455
 msgid "Header Top area Settings"
-msgstr ""
+msgstr "Настройки верхней области \"шапки\""
 
 #: ../framework/admin/framework-panel.php:458
 msgid "Top menu"
-msgstr ""
+msgstr "Верхнее меню"
 
 #: ../framework/admin/framework-panel.php:463
 msgid "Today's Date"
-msgstr ""
+msgstr "Сегодняшняя дата"
 
 #: ../framework/admin/framework-panel.php:468
 msgid "Today's Date Format"
-msgstr ""
+msgstr "Формат даты для \"сегодня\""
 
 #: ../framework/admin/framework-panel.php:471
 msgid "Documentation on date and time formatting"
-msgstr ""
+msgstr "Документация по форматирования даты и времени"
 
 #: ../framework/admin/framework-panel.php:479
 msgid "Live Search"
-msgstr ""
+msgstr "Поиск в реальном времени"
 
 #: ../framework/admin/framework-panel.php:484
 #: ../framework/admin/framework-panel.php:538
 #: ../framework/admin/framework-panel.php:1295
 #: ../framework/widgets/widget-social.php:11
 msgid "Social Icons"
-msgstr ""
+msgstr "Иконки соц.сетей"
 
 #: ../framework/admin/framework-panel.php:492
 msgid "Main Nav Settings"
-msgstr ""
+msgstr "Настройки основной (Main) навигации"
 
 #: ../framework/admin/framework-panel.php:495
 msgid "Main Nav"
-msgstr ""
+msgstr "Основная (Main) навигация"
 
 #: ../framework/admin/framework-panel.php:500
 msgid "Random Article Button"
-msgstr ""
+msgstr "Кнопка случайной статьи"
 
 #: ../framework/admin/framework-panel.php:506
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Корзина"
 
 #: ../framework/admin/framework-panel.php:511
 msgid "Stick The Navigation menu"
-msgstr ""
+msgstr "Приклеить меню навигации"
 
 #: ../framework/admin/framework-panel.php:516
 msgid "Logo in the sticky Navigation menu"
-msgstr ""
+msgstr "Логотип в \"клейкой\" меню навигации"
 
 #: ../framework/admin/framework-panel.php:525
 msgid "Responsive Mobile Menu Settings"
-msgstr ""
+msgstr "Настройки отзывчивого (Responsive) мобильного меню"
 
 #: ../framework/admin/framework-panel.php:528
 msgid "Enable the Mobile Menu"
-msgstr ""
+msgstr "Включить мобильное меню"
 
 #: ../framework/admin/framework-panel.php:543
 msgid "Show the Top Menu items in the Mobile Menu below the Main Menu items ?"
 msgstr ""
+"Показывать пункты верхнего (Top) меню в мобильном меню под пунктами "
+"основного (Main) меню?"
 
 #: ../framework/admin/framework-panel.php:548
 msgid "Enable Mobile Menu Items Icons"
-msgstr ""
+msgstr "Включить иконки для пунктов мобильного меню"
 
 #: ../framework/admin/framework-panel.php:558
 #: ../framework/functions/translation.php:102
 #: ../framework/parts/breaking-news.php:21
 msgid "Breaking News"
-msgstr ""
+msgstr "Главные новости"
 
 #: ../framework/admin/framework-panel.php:566
 msgid "Show in Homepage Only"
-msgstr ""
+msgstr "Показывать только на главной (Homepage) странице"
 
 #: ../framework/admin/framework-panel.php:576
 msgid "Slide"
-msgstr ""
+msgstr "Слайд"
 
 #: ../framework/admin/framework-panel.php:577
 msgid "Ticker"
-msgstr ""
+msgstr "Бегущая строка"
 
 #: ../framework/admin/framework-panel.php:589
 msgid "Time between the fades"
-msgstr ""
+msgstr "Интервал между сменой слайдов"
 
 #: ../framework/admin/framework-panel.php:598
 msgid "Breaking News Query Type"
-msgstr ""
+msgstr "Тип \"Главные новости\" Запрос"
 
 #: ../framework/admin/framework-panel.php:603
 msgid "Custom Text"
-msgstr ""
+msgstr "Пользовательский текст"
 
 #: ../framework/admin/framework-panel.php:612
 msgid "Breaking News Tags"
-msgstr ""
+msgstr "Тэги \"главных новостей\""
 
 #: ../framework/admin/framework-panel.php:620
 msgid "Breaking News Categories"
-msgstr ""
+msgstr "Рубрики для Главных новостей"
 
 #: ../framework/admin/framework-panel.php:633
 msgid "Breaking News Custom Text"
-msgstr ""
+msgstr "Главные новости - Пользовательский текст"
 
 #: ../framework/admin/framework-panel.php:636
 #: ../framework/widgets/widget-text-html.php:61
 msgid "Text"
-msgstr ""
+msgstr "Текст"
 
 #: ../framework/admin/framework-panel.php:638
 msgid "Link"
-msgstr ""
+msgstr "Ссылка"
 
 #: ../framework/admin/framework-panel.php:670
 #: ../framework/admin/framework-panel.php:679
 msgid "Custom Feed URL"
-msgstr ""
+msgstr "URL пользовательской ленты"
 
 #: ../framework/admin/framework-panel.php:674
 #: ../framework/admin/framework-panel.php:2018
 #: ../framework/admin/framework-panel.php:2061
 #: ../framework/admin/framework-panel.php:2104
 msgid "RSS Icon"
-msgstr ""
+msgstr "RSS иконка"
 
 #: ../framework/admin/framework-panel.php:690
 #: ../framework/functions/theme-functions.php:664
 msgid "Facebook URL"
-msgstr ""
+msgstr "Facebook URL"
 
 #: ../framework/admin/framework-panel.php:695
 msgid "Twitter URL"
-msgstr ""
+msgstr "Twitter URL"
 
 #: ../framework/admin/framework-panel.php:700
 #: ../framework/functions/theme-functions.php:652
 msgid "Google+ URL"
-msgstr ""
+msgstr "Google+ URL"
 
 #: ../framework/admin/framework-panel.php:706
 msgid "Dribbble URL"
-msgstr ""
+msgstr "Dribbble ссылка"
 
 #: ../framework/admin/framework-panel.php:712
 #: ../framework/functions/theme-functions.php:670
 msgid "LinkedIn URL"
-msgstr ""
+msgstr "LinkedIn URL"
 
 #: ../framework/admin/framework-panel.php:718
 msgid "Evernote URL"
-msgstr ""
+msgstr "Evernote URL"
 
 #: ../framework/admin/framework-panel.php:724
 msgid "Dropbox URL"
-msgstr ""
+msgstr "Dropbox URL"
 
 #: ../framework/admin/framework-panel.php:730
 #: ../framework/functions/theme-functions.php:676
 msgid "Flickr URL"
-msgstr ""
+msgstr "Flickr"
 
 #: ../framework/admin/framework-panel.php:736
 msgid "Picasa Web URL"
-msgstr ""
+msgstr "Picasa Web URL"
 
 #: ../framework/admin/framework-panel.php:742
 msgid "DeviantArt URL"
-msgstr ""
+msgstr "DeviantArt URL"
 
 #: ../framework/admin/framework-panel.php:748
 #: ../framework/functions/theme-functions.php:682
 msgid "YouTube URL"
-msgstr ""
+msgstr "YouTube URL"
 
 #: ../framework/admin/framework-panel.php:754
 msgid "Grooveshark URL"
-msgstr ""
+msgstr "Grooveshark URL"
 
 #: ../framework/admin/framework-panel.php:760
 msgid "Vimeo URL"
-msgstr ""
+msgstr "Vimeo URL"
 
 #: ../framework/admin/framework-panel.php:766
 msgid "ShareThis URL"
-msgstr ""
+msgstr "ShareThis URL"
 
 #: ../framework/admin/framework-panel.php:772
 msgid "500px URL"
-msgstr ""
+msgstr "500px URL"
 
 #: ../framework/admin/framework-panel.php:778
 msgid "Skype URL"
-msgstr ""
+msgstr "Skype URL"
 
 #: ../framework/admin/framework-panel.php:784
 msgid "Digg URL"
-msgstr ""
+msgstr "Digg URL"
 
 #: ../framework/admin/framework-panel.php:790
 msgid "Reddit URL"
-msgstr ""
+msgstr "Reddit URL"
 
 #: ../framework/admin/framework-panel.php:796
 msgid "Delicious URL"
-msgstr ""
+msgstr "Delicious URL"
 
 #: ../framework/admin/framework-panel.php:802
 msgid "StumbleUpon  URL"
-msgstr ""
+msgstr "StumbleUpon  URL"
 
 #: ../framework/admin/framework-panel.php:808
 msgid "Tumblr URL"
-msgstr ""
+msgstr "Tumblr URL"
 
 #: ../framework/admin/framework-panel.php:814
 msgid "Blogger URL"
-msgstr ""
+msgstr "Blogger URL"
 
 #: ../framework/admin/framework-panel.php:820
 msgid "WordPress URL"
-msgstr ""
+msgstr "WordPress URL"
 
 #: ../framework/admin/framework-panel.php:826
 msgid "Yelp URL"
-msgstr ""
+msgstr "Yelp URL"
 
 #: ../framework/admin/framework-panel.php:832
 msgid "Last.fm URL"
-msgstr ""
+msgstr "Last.fm URL"
 
 #: ../framework/admin/framework-panel.php:838
 msgid "Apple URL"
-msgstr ""
+msgstr "Apple URL"
 
 #: ../framework/admin/framework-panel.php:844
 msgid "FourSquare URL"
-msgstr ""
+msgstr "FourSquare URL"
 
 #: ../framework/admin/framework-panel.php:850
 msgid "Github URL"
-msgstr ""
+msgstr "Github URL"
 
 #: ../framework/admin/framework-panel.php:862
 msgid "XING URL"
-msgstr ""
+msgstr "XING URL"
 
 #: ../framework/admin/framework-panel.php:868
 msgid "Google Play URL"
-msgstr ""
+msgstr "Google Play URL"
 
 #: ../framework/admin/framework-panel.php:874
 #: ../framework/functions/theme-functions.php:688
 msgid "Pinterest URL"
-msgstr ""
+msgstr "Pinterest URL"
 
 #: ../framework/admin/framework-panel.php:880
 #: ../framework/functions/theme-functions.php:700
 msgid "Instagram URL"
-msgstr ""
+msgstr "Instagram URL"
 
 #: ../framework/admin/framework-panel.php:886
 msgid "Spotify URL"
-msgstr ""
+msgstr "Spotify URL"
 
 #: ../framework/admin/framework-panel.php:892
 msgid "PayPal URL"
-msgstr ""
+msgstr "PayPal URL"
 
 #: ../framework/admin/framework-panel.php:898
 msgid "Forrst URL"
-msgstr ""
+msgstr "Forrst URL"
 
 #: ../framework/admin/framework-panel.php:904
 #: ../framework/functions/theme-functions.php:694
 msgid "Behance URL"
-msgstr ""
+msgstr "Behance URL"
 
 #: ../framework/admin/framework-panel.php:910
 msgid "Viadeo URL"
-msgstr ""
+msgstr "Viadeo URL"
 
 #: ../framework/admin/framework-panel.php:916
 msgid "VK.com URL"
-msgstr ""
+msgstr "VK.com URL"
 
 #: ../framework/admin/framework-panel.php:924
 #: ../framework/admin/framework-panel.php:949
@@ -2216,7 +2237,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:999
 #: ../framework/admin/framework-panel.php:1024
 msgid "Custom Social Network"
-msgstr ""
+msgstr "Пользовательская Социальная сеть"
 
 #: ../framework/admin/framework-panel.php:932
 #: ../framework/admin/framework-panel.php:957
@@ -2224,7 +2245,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1007
 #: ../framework/admin/framework-panel.php:1032
 msgid "Icon (use full Font Awesome name)"
-msgstr ""
+msgstr "Иконка Mega Menu (Используйте полное имя font awesome)"
 
 #: ../framework/admin/framework-panel.php:937
 #: ../framework/admin/framework-panel.php:962
@@ -2233,7 +2254,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1037
 #: ../framework/functions/mega-menus.php:618
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../framework/admin/framework-panel.php:942
 #: ../framework/admin/framework-panel.php:967
@@ -2241,168 +2262,168 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1017
 #: ../framework/admin/framework-panel.php:1042
 msgid "Color"
-msgstr ""
+msgstr "Цвет"
 
 #: ../framework/admin/framework-panel.php:1059
 msgid "Show Featured Image By Default"
-msgstr ""
+msgstr "Показывать избранную картинку в записях"
 
 #: ../framework/admin/framework-panel.php:1064
 msgid "Post Author Box"
-msgstr ""
+msgstr "Блок Автора новости"
 
 #: ../framework/admin/framework-panel.php:1069
 msgid "Next/Prev Articles"
-msgstr ""
+msgstr "След./Пред. статьи"
 
 #: ../framework/admin/framework-panel.php:1074
 msgid "OG Meta"
-msgstr ""
+msgstr "Метаданные OG"
 
 #: ../framework/admin/framework-panel.php:1079
 msgid "Reading Position Indicator"
-msgstr ""
+msgstr "Индикатор позиции чтения"
 
 #: ../framework/admin/framework-panel.php:1087
 msgid "Post Meta Settings"
-msgstr ""
+msgstr "Настройки метаданных (Meta) для новостей"
 
 #: ../framework/admin/framework-panel.php:1090
 #: ../framework/admin/framework-panel.php:2652
 msgid "Post Meta"
-msgstr ""
+msgstr "Метаданные новости"
 
 #: ../framework/admin/framework-panel.php:1115
 msgid "Tags Meta"
-msgstr ""
+msgstr "Метаданные Меток"
 
 #: ../framework/admin/framework-panel.php:1131
 msgid "Share Post Settings"
-msgstr ""
+msgstr "Настройки кнопок \"SHARE\" (\"Поделиться\") для новостей"
 
 #: ../framework/admin/framework-panel.php:1134
 msgid "Bottom Share Post Buttons"
-msgstr ""
+msgstr "Нижние кнопки поделиться \"SHARE\""
 
 #: ../framework/admin/framework-panel.php:1139
 msgid "Top Share Post Buttons"
-msgstr ""
+msgstr "Верхние кнопки поделиться \"SHARE\""
 
 #: ../framework/admin/framework-panel.php:1144
 msgid "Share Buttons for Pages"
-msgstr ""
+msgstr "Кнопки \"SHARE\" для страниц"
 
 #: ../framework/admin/framework-panel.php:1149
 msgid "Share Buttons type"
-msgstr ""
+msgstr "Тип кнопок \"SHARE\""
 
 #: ../framework/admin/framework-panel.php:1152
 msgid "Buttons with counters"
-msgstr ""
+msgstr "Кнопки со счетчиками"
 
 #: ../framework/admin/framework-panel.php:1153
 msgid "Flat Buttons"
-msgstr ""
+msgstr "Плоские кнопки"
 
 #: ../framework/admin/framework-panel.php:1156
 msgid "Use the post's Short Link"
-msgstr ""
+msgstr "Использование коротких ссылок для записей"
 
 #: ../framework/admin/framework-panel.php:1166
 msgid "Twitter Username <small>(optional)</small>"
-msgstr ""
+msgstr "Имя пользователя для Twitter <small>(опционально)</small>"
 
 #: ../framework/admin/framework-panel.php:1181
 msgid "LinkedIn Button"
-msgstr ""
+msgstr "LinkedIn кнопка"
 
 #: ../framework/admin/framework-panel.php:1186
 msgid "StumbleUpon Button"
-msgstr ""
+msgstr "Кнопка StumbleUpon"
 
 #: ../framework/admin/framework-panel.php:1202
 msgid "Related Posts Settings"
-msgstr ""
+msgstr "Настройки окна \"Похожие записи\" (Related Posts)"
 
 #: ../framework/admin/framework-panel.php:1205
 msgid "Related Posts"
-msgstr ""
+msgstr "Похожие записи"
 
 #: ../framework/admin/framework-panel.php:1210
 msgid "Related Posts Position"
-msgstr ""
+msgstr "Позиция похожих новостей"
 
 #: ../framework/admin/framework-panel.php:1213
 msgid "In the post content area"
-msgstr ""
+msgstr "Внутри области содержания записи"
 
 #: ../framework/admin/framework-panel.php:1214
 msgid "Below the post area"
-msgstr ""
+msgstr "Ниже области новости"
 
 #: ../framework/admin/framework-panel.php:1222
 msgid "Number of posts to show in Full width pages"
-msgstr ""
+msgstr "Количество новостей, чтобы показать в полную ширину страницы"
 
 #: ../framework/admin/framework-panel.php:1230
 #: ../framework/admin/framework-panel.php:1262
 msgid "Posts in the same Categories"
-msgstr ""
+msgstr "Новости в тех же рубриках"
 
 #: ../framework/admin/framework-panel.php:1231
 #: ../framework/admin/framework-panel.php:1263
 msgid "Posts in the same Tags"
-msgstr ""
+msgstr "Новости с теми же метками"
 
 #: ../framework/admin/framework-panel.php:1232
 #: ../framework/admin/framework-panel.php:1264
 msgid "Posts by the same Author"
-msgstr ""
+msgstr "Новости того же автора"
 
 #: ../framework/admin/framework-panel.php:1239
 msgid "Fly Check Also Box"
-msgstr ""
+msgstr "Настройки всплывающего окна \"Проверьте также\" (Fly Check Also Box)"
 
 #: ../framework/admin/framework-panel.php:1242
 msgid "Check Also Box"
-msgstr ""
+msgstr "Окно \"Проверьте также\""
 
 #: ../framework/admin/framework-panel.php:1247
 msgid "Check Also Box Position"
-msgstr ""
+msgstr "Позиция окна \"Проверьте также\""
 
 #: ../framework/admin/framework-panel.php:1271
 msgid "jQuery Comments Settings"
-msgstr ""
+msgstr "Настройка комментариев JQuery"
 
 #: ../framework/admin/framework-panel.php:1274
 msgid "Adding Comment Validation"
-msgstr ""
+msgstr "Добавление комментария валидации (проверки соответствия)"
 
 #: ../framework/admin/framework-panel.php:1287
 msgid "Footer Elements"
-msgstr ""
+msgstr "Элементы \"подвала\""
 
 #: ../framework/admin/framework-panel.php:1290
 msgid "Go To Top Button"
-msgstr ""
+msgstr "Кнопка \"Перейти наверх\" (Go To Top)"
 
 #: ../framework/admin/framework-panel.php:1303
 msgid "Footer Widgets layout"
-msgstr ""
+msgstr "Макет виджетов в \"подвале\""
 
 #: ../framework/admin/framework-panel.php:1306
 msgid "Footer Widgets"
-msgstr ""
+msgstr "Виджеты подвала (footer)"
 
 #: ../framework/admin/framework-panel.php:1353
 msgid "Footer Text One"
-msgstr ""
+msgstr "Текст 1 в \"подвале\""
 
 #: ../framework/admin/framework-panel.php:1356
 #: ../framework/admin/framework-panel.php:1370
 msgid "Variables"
-msgstr ""
+msgstr "Переменные"
 
 #: ../framework/admin/framework-panel.php:1357
 #: ../framework/admin/framework-panel.php:1371
@@ -2410,55 +2431,60 @@ msgid ""
 "These tags can be included in the textarea above and will be replaced when a "
 "page is displayed."
 msgstr ""
+"Эти метки могут быть включены в текстовую область выше и будут заменены при "
+"отображении страницы."
 
 #: ../framework/admin/framework-panel.php:1359
 #: ../framework/admin/framework-panel.php:1373
 msgid "Replaced with the current year."
-msgstr ""
+msgstr "Заменяется на текущий год."
 
 #: ../framework/admin/framework-panel.php:1360
 #: ../framework/admin/framework-panel.php:1374
 msgid "Replaced with The site's name."
-msgstr ""
+msgstr "Заменяется на имя сайта."
 
 #: ../framework/admin/framework-panel.php:1361
 #: ../framework/admin/framework-panel.php:1375
 msgid "Replaced with The site's URL."
-msgstr ""
+msgstr "Заменяется на URL сайта."
 
 #: ../framework/admin/framework-panel.php:1367
 msgid "Footer Text Two"
-msgstr ""
+msgstr "Текст 2 в \"подвале\""
 
 #: ../framework/admin/framework-panel.php:1384
 msgid "Banners Settings"
-msgstr ""
+msgstr "Настройки баннеров"
 
 #: ../framework/admin/framework-panel.php:1386
 msgid "Background Image ADS"
-msgstr ""
+msgstr "Фоновое изображение рекламы"
 
 #: ../framework/admin/framework-panel.php:1389
 msgid "Enable Background Image ADS"
-msgstr ""
+msgstr "Включить фоновое изображение объявления"
 
 #: ../framework/admin/framework-panel.php:1394
 msgid "Background Image ADS Link"
-msgstr ""
+msgstr "Фоновое изображение рекламы URL"
 
 #: ../framework/admin/framework-panel.php:1399
 msgid ""
 "Go to Styling tab and set Background Type to Custom Background then upload "
 "your custom image and enable Full Screen Background option."
 msgstr ""
+"Перейдите на вкладку \"Дизайн\" и установить тип фона в \"Пользовательский "
+"фон\", после этого загрузите вашу картинку и активируйте опцию \"Фон на "
+"полный экран\"."
 
 #: ../framework/admin/framework-panel.php:1403
 msgid "Top Banner Area"
-msgstr ""
+msgstr "Область верхнего банера"
 
 #: ../framework/admin/framework-panel.php:1406
 msgid "Top Banner"
-msgstr ""
+msgstr "Верхний баннер"
 
 #: ../framework/admin/framework-panel.php:1411
 #: ../framework/admin/framework-panel.php:1487
@@ -2466,15 +2492,15 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1640
 #: ../framework/admin/framework-panel.php:1712
 msgid "Image Ad"
-msgstr ""
+msgstr "Изображение реламы"
 
 #: ../framework/admin/framework-panel.php:1415
 msgid "Top Banner Image"
-msgstr ""
+msgstr "Картинка верхнего баннера"
 
 #: ../framework/admin/framework-panel.php:1420
 msgid "Top Banner Link"
-msgstr ""
+msgstr "Ссылка верхнего баннера"
 
 #: ../framework/admin/framework-panel.php:1425
 #: ../framework/admin/framework-panel.php:1501
@@ -2482,7 +2508,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1654
 #: ../framework/admin/framework-panel.php:1726
 msgid "Alternative Text For The image"
-msgstr ""
+msgstr "Альтернативный текст для изображения"
 
 #: ../framework/admin/framework-panel.php:1430
 #: ../framework/admin/framework-panel.php:1506
@@ -2490,7 +2516,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1659
 #: ../framework/admin/framework-panel.php:1731
 msgid "Open The Link In a new Tab"
-msgstr ""
+msgstr "Открыть ссылку в новой вкладке"
 
 #: ../framework/admin/framework-panel.php:1435
 #: ../framework/admin/framework-panel.php:1511
@@ -2498,7 +2524,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1664
 #: ../framework/admin/framework-panel.php:1736
 msgid "Nofollow"
-msgstr ""
+msgstr "Не следовать (Nofollow)"
 
 #: ../framework/admin/framework-panel.php:1440
 #: ../framework/admin/framework-panel.php:1516
@@ -2506,7 +2532,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1669
 #: ../framework/admin/framework-panel.php:1741
 msgid "Responsive Google AdSense"
-msgstr ""
+msgstr "Отзывчивый Google AdSense"
 
 #: ../framework/admin/framework-panel.php:1444
 #: ../framework/admin/framework-panel.php:1520
@@ -2514,13 +2540,13 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1673
 #: ../framework/admin/framework-panel.php:1745
 msgid "Publisher ID"
-msgstr ""
+msgstr "Идентификатор издателя (ID)"
 
 #: ../framework/admin/framework-panel.php:1449
 #: ../framework/admin/framework-panel.php:1525
 #: ../framework/admin/framework-panel.php:1601
 msgid "728x90 (Leaderboard) - ad ID"
-msgstr ""
+msgstr "728x90 (Таблица лидеров) - ID рекламы"
 
 #: ../framework/admin/framework-panel.php:1454
 #: ../framework/admin/framework-panel.php:1530
@@ -2528,7 +2554,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1678
 #: ../framework/admin/framework-panel.php:1750
 msgid "468x60 (Banner) - ad ID"
-msgstr ""
+msgstr "468x60 (Баннер) - ID рекламы"
 
 #: ../framework/admin/framework-panel.php:1459
 #: ../framework/admin/framework-panel.php:1535
@@ -2536,7 +2562,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1683
 #: ../framework/admin/framework-panel.php:1755
 msgid "300x250 (Medium Rectangle) - ad ID"
-msgstr ""
+msgstr "300x250 (Средний Прямоугольник) - ID рекламы"
 
 #: ../framework/admin/framework-panel.php:1465
 #: ../framework/admin/framework-panel.php:1541
@@ -2544,7 +2570,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1689
 #: ../framework/admin/framework-panel.php:1761
 msgid "Custom Code"
-msgstr ""
+msgstr "Пользовательский Код"
 
 #: ../framework/admin/framework-panel.php:1469
 #: ../framework/admin/framework-panel.php:1545
@@ -2552,69 +2578,69 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1693
 #: ../framework/admin/framework-panel.php:1765
 msgid "Custom Ad Code"
-msgstr ""
+msgstr "Пользовательский рекламный код"
 
 #: ../framework/admin/framework-panel.php:1479
 msgid "Bottom Banner Area"
-msgstr ""
+msgstr "Область нижнего баннера"
 
 #: ../framework/admin/framework-panel.php:1482
 msgid "Bottom Banner"
-msgstr ""
+msgstr "Нижний баннер"
 
 #: ../framework/admin/framework-panel.php:1491
 #: ../framework/admin/framework-panel.php:1567
 msgid "Bottom Banner Image"
-msgstr ""
+msgstr "Картинка нижнего баннера"
 
 #: ../framework/admin/framework-panel.php:1496
 #: ../framework/admin/framework-panel.php:1572
 msgid "Bottom Banner Link"
-msgstr ""
+msgstr "Ссылка нижнего баннера"
 
 #: ../framework/admin/framework-panel.php:1555
 msgid "Below Header Banner Area"
-msgstr ""
+msgstr "Ниже области баннера в шапке"
 
 #: ../framework/admin/framework-panel.php:1558
 msgid "Below Header Banner"
-msgstr ""
+msgstr "Ниже заголовка Баннера"
 
 #: ../framework/admin/framework-panel.php:1632
 msgid "Above Article Banner Area"
-msgstr ""
+msgstr "Над областью статьи баннера"
 
 #: ../framework/admin/framework-panel.php:1635
 msgid "Above Article Banner"
-msgstr ""
+msgstr "Над статьей баннера"
 
 #: ../framework/admin/framework-panel.php:1644
 msgid "Above Article Banner Image"
-msgstr ""
+msgstr "Над изображением статьи баннера"
 
 #: ../framework/admin/framework-panel.php:1649
 msgid "Above Article Banner Link"
-msgstr ""
+msgstr "Над ссылкой на статью баннера"
 
 #: ../framework/admin/framework-panel.php:1704
 msgid "Below Article Banner Area"
-msgstr ""
+msgstr "Под областью статьи баннера"
 
 #: ../framework/admin/framework-panel.php:1707
 msgid "Below Article Banner"
-msgstr ""
+msgstr "Под статьей банера"
 
 #: ../framework/admin/framework-panel.php:1716
 msgid "Below Article Banner Image"
-msgstr ""
+msgstr "Под картинкой статьи баннера"
 
 #: ../framework/admin/framework-panel.php:1721
 msgid "Below Article Banner Link"
-msgstr ""
+msgstr "Под ссылкой на статью банера"
 
 #: ../framework/admin/framework-panel.php:1775
 msgid "Shortcode ADS"
-msgstr ""
+msgstr "Рекламный короткий код (shortcode)"
 
 #: ../framework/admin/framework-panel.php:1778
 msgid "[ads1] Shortcode Banner"
