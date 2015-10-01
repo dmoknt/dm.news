@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Sahifa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-22 15:33+0200\n"
-"PO-Revision-Date: 2015-09-30 20:12+0300\n"
+"PO-Revision-Date: 2015-10-01 20:31+0300\n"
 "Last-Translator: Fouad Badawy <support@tielabs.com>\n"
 "Language-Team: Tielabs <info@tielabs.com>\n"
 "Language: ru\n"
@@ -2644,517 +2644,525 @@ msgstr "Рекламный короткий код (shortcode)"
 
 #: ../framework/admin/framework-panel.php:1778
 msgid "[ads1] Shortcode Banner"
-msgstr ""
+msgstr "[Ads1] Шорткод Баннера"
 
 #: ../framework/admin/framework-panel.php:1783
 msgid "[ads2] Shortcode Banner"
-msgstr ""
+msgstr "[Ads2] Шорткод Баннера"
 
 #: ../framework/admin/framework-panel.php:1796
 msgid "Default Sidebar Position"
-msgstr ""
+msgstr "Позиция боковой панели по умолчанию"
 
 #: ../framework/admin/framework-panel.php:1815
 msgid "Sticky Sidebars"
-msgstr ""
+msgstr "Клейкие сайдбары"
 
 #: ../framework/admin/framework-panel.php:1818
 msgid "Sticky Sidebar"
-msgstr ""
+msgstr "Клейкая боковая панель"
 
 #: ../framework/admin/framework-panel.php:1823
 msgid "Disable on the homepage"
-msgstr ""
+msgstr "Отключить на главной странице (Homepage)"
 
 #: ../framework/admin/framework-panel.php:1828
 msgid "Disable on category pages"
-msgstr ""
+msgstr "Отключить на страницах рубрик"
 
 #: ../framework/admin/framework-panel.php:1833
 msgid "Disable on tag pages"
-msgstr ""
+msgstr "Отключить на страницах тегов"
 
 #: ../framework/admin/framework-panel.php:1838
 msgid "Disable on pages"
-msgstr ""
+msgstr "Отключить на страницах"
 
 #: ../framework/admin/framework-panel.php:1843
 msgid "Disable on posts"
-msgstr ""
+msgstr "Отключить на новостях"
 
 #: ../framework/admin/framework-panel.php:1852
 msgid "Add Sidebar"
-msgstr ""
+msgstr "Добавить боковую панель (сайдбар)"
 
 #: ../framework/admin/framework-panel.php:1854
 msgid "Sidebar Name"
-msgstr ""
+msgstr "Название боковой панели"
 
 #: ../framework/admin/framework-panel.php:1857
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 #: ../framework/admin/framework-panel.php:1874
 msgid "Custom Sidebars"
-msgstr ""
+msgstr "Пользовательские боковые панели (сайдбары)"
 
 #: ../framework/admin/framework-panel.php:1889
 msgid "Home Sidebar"
-msgstr ""
+msgstr "Боковая панель для главной страницы (Home)"
 
 #: ../framework/admin/framework-panel.php:1895
 msgid "Single Page Sidebar"
-msgstr ""
+msgstr "Боковая панель для страниц"
 
 #: ../framework/admin/framework-panel.php:1901
 msgid "Single Article Sidebar"
-msgstr ""
+msgstr "Боковая панель для новостей"
 
 #: ../framework/admin/framework-panel.php:1907
 msgid "Archives Sidebar"
-msgstr ""
+msgstr "Боковая панель для архивов"
 
 #: ../framework/admin/framework-panel.php:1914
 msgid "bbPress Sidebar"
-msgstr ""
+msgstr "Боковая панель bbPress"
 
 #: ../framework/admin/framework-panel.php:1938
 msgid "Excerpt Length"
-msgstr ""
+msgstr "Длина отрывка"
 
 #: ../framework/admin/framework-panel.php:1975
 msgid "Default layout settings"
-msgstr ""
+msgstr "Настройки макета по умолчанию"
 
 #: ../framework/admin/framework-panel.php:1981
 msgid "Choose the default layout"
-msgstr ""
+msgstr "Выберите макет по умолчанию"
 
 #: ../framework/admin/framework-panel.php:2004
 msgid "These settings will applies on all pages with blog List template."
 msgstr ""
+"Эти параметры будут применяется на всех страницах с макетом \"список новостей"
+"\"."
 
 #: ../framework/admin/framework-panel.php:2010
 msgid "Category Page Settings"
-msgstr ""
+msgstr "Настройки страницы рубрики"
 
 #: ../framework/admin/framework-panel.php:2013
 msgid "Category Description"
-msgstr ""
+msgstr "Описание рубрики"
 
 #: ../framework/admin/framework-panel.php:2025
 msgid "Choose Default Categories page layout"
-msgstr ""
+msgstr "Выберите макет страницы рубрики по умолчанию"
 
 #: ../framework/admin/framework-panel.php:2053
 msgid "Tag Page Settings"
-msgstr ""
+msgstr "Настройки страницы меток"
 
 #: ../framework/admin/framework-panel.php:2056
 msgid "Tag Description"
-msgstr ""
+msgstr "Описание метки"
 
 #: ../framework/admin/framework-panel.php:2069
 msgid "Choose Tags page layout"
-msgstr ""
+msgstr "Выберите макет для страницы меток"
 
 #: ../framework/admin/framework-panel.php:2096
 msgid "Author Page Settings"
-msgstr ""
+msgstr "Настройки страницы автора"
 
 #: ../framework/admin/framework-panel.php:2111
 msgid "Choose Author page layout"
-msgstr ""
+msgstr "Выберите макет страницы Автора"
 
 #: ../framework/admin/framework-panel.php:2138
 msgid "Search Page Settings"
-msgstr ""
+msgstr "Настройки страницы поиска"
 
 #: ../framework/admin/framework-panel.php:2141
 msgid "Search in Category IDs"
-msgstr ""
+msgstr "Поиск по ID идентификаторам рубрик"
 
 #: ../framework/admin/framework-panel.php:2143
 msgid ""
 "Use minus sign (-) to exclude categories. Example: (1,4,-7) = search only in "
 "Category 1 & 4, and exclude Category 7."
 msgstr ""
+"Используйте минус (-), чтобы исключить рубрику. Пример: (1,4, -7) = искать "
+"только в рубриках 1 и 4 и исключить из поиска  рубрику 7."
 
 #: ../framework/admin/framework-panel.php:2147
 msgid "Exclude Pages in results"
-msgstr ""
+msgstr "Исключить страницы в результатах поиска"
 
 #: ../framework/admin/framework-panel.php:2154
 msgid "Choose Search results page layout"
-msgstr ""
+msgstr "Выберите макет страницы результатов поиска"
 
 #: ../framework/admin/framework-panel.php:2185
 msgid "Theme Color and Settings"
-msgstr ""
+msgstr "Цвет темы и настройки"
 
 #: ../framework/admin/framework-panel.php:2188
 msgid "Choose Theme Color"
-msgstr ""
+msgstr "Выберите цвет темы"
 
 #: ../framework/admin/framework-panel.php:2231
 msgid "Custom Theme Color"
-msgstr ""
+msgstr "Пользовательский цвет темы"
 
 #: ../framework/admin/framework-panel.php:2236
 msgid "Dark Skin"
-msgstr ""
+msgstr "Темная оболочка (skin)"
 
 #: ../framework/admin/framework-panel.php:2241
 msgid "Modern Colored Scrollbar"
-msgstr ""
+msgstr "Современная цветная полоса прокрутки"
 
 #: ../framework/admin/framework-panel.php:2244
 msgid "For Chrome and Safari only."
-msgstr ""
+msgstr "Только для Chrome и Safari."
 
 #: ../framework/admin/framework-panel.php:2247
 msgid "Apply Categories Colors on News blocks"
-msgstr ""
+msgstr "Применить цветовые рубрики на новостные блоки"
 
 #: ../framework/admin/framework-panel.php:2252
 msgid "Lazy Load For Images"
-msgstr ""
+msgstr "Эффект Отложенной Загрузки для изображений"
 
 #: ../framework/admin/framework-panel.php:2257
 msgid "Smoth Scroll"
-msgstr ""
+msgstr "Плавная прокрутка"
 
 #: ../framework/admin/framework-panel.php:2264
 #: ../framework/admin/framework-panel.php:2267
 msgid "Background Type"
-msgstr ""
+msgstr "Тип фона"
 
 #: ../framework/admin/framework-panel.php:2270
 msgid "Pattern"
-msgstr ""
+msgstr "Шаблон(Pattern)"
 
 #: ../framework/admin/framework-panel.php:2271
 #: ../framework/admin/framework-panel.php:2298
 #: ../framework/admin/framework-panel.php:2301
 msgid "Custom Background"
-msgstr ""
+msgstr "Пользовательский фон"
 
 #: ../framework/admin/framework-panel.php:2276
 msgid "Choose Pattern"
-msgstr ""
+msgstr "Выберите шаблон (pattern)"
 
 #: ../framework/admin/framework-panel.php:2280
 msgid "Background Color"
-msgstr ""
+msgstr "Цвет фона"
 
 #: ../framework/admin/framework-panel.php:2313
 msgid "Body Styling"
-msgstr ""
+msgstr "Стилизация содержимого (Body Styling)"
 
 #: ../framework/admin/framework-panel.php:2317
 msgid "Highlighted Text Color"
-msgstr ""
+msgstr "Подсвеченный цвет фона"
 
 #: ../framework/admin/framework-panel.php:2322
 #: ../framework/admin/framework-panel.php:2361
 #: ../framework/admin/framework-panel.php:2407
 #: ../framework/admin/framework-panel.php:2507
 msgid "Links Color"
-msgstr ""
+msgstr "Цвет ссылок"
 
 #: ../framework/admin/framework-panel.php:2326
 msgid "Links Decoration"
-msgstr ""
+msgstr "Украшение ссылок"
 
 #: ../framework/admin/framework-panel.php:2330
 #: ../framework/admin/framework-panel.php:2345
 #: ../framework/admin/framework-panel.php:2472
 #: ../framework/admin/framework-panel.php:2487
 msgid "none"
-msgstr ""
+msgstr "Нет"
 
 #: ../framework/admin/framework-panel.php:2331
 #: ../framework/admin/framework-panel.php:2346
 #: ../framework/admin/framework-panel.php:2473
 #: ../framework/admin/framework-panel.php:2488
 msgid "underline"
-msgstr ""
+msgstr "подчеркивание"
 
 #: ../framework/admin/framework-panel.php:2332
 #: ../framework/admin/framework-panel.php:2347
 #: ../framework/admin/framework-panel.php:2474
 #: ../framework/admin/framework-panel.php:2489
 msgid "overline"
-msgstr ""
+msgstr "надчёркнутый"
 
 #: ../framework/admin/framework-panel.php:2333
 #: ../framework/admin/framework-panel.php:2348
 #: ../framework/admin/framework-panel.php:2475
 #: ../framework/admin/framework-panel.php:2490
 msgid "line-through"
-msgstr ""
+msgstr "зачеркнутый"
 
 #: ../framework/admin/framework-panel.php:2336
 #: ../framework/admin/framework-panel.php:2366
 #: ../framework/admin/framework-panel.php:2412
 #: ../framework/admin/framework-panel.php:2512
 msgid "Links Color on mouse over"
-msgstr ""
+msgstr "Цвет ссылки при наведении мыши"
 
 #: ../framework/admin/framework-panel.php:2341
 msgid "Links Decoration on mouse over"
-msgstr ""
+msgstr "Украшение ссылки  при наведении мыши"
 
 #: ../framework/admin/framework-panel.php:2353
 msgid "Top Navigation Styling"
-msgstr ""
+msgstr "Стиль верхней навигации"
 
 #: ../framework/admin/framework-panel.php:2371
 msgid "Today's Date text color"
-msgstr ""
+msgstr "Цвет текста для даты \"сегодня\""
 
 #: ../framework/admin/framework-panel.php:2378
 msgid "Header Background"
-msgstr ""
+msgstr "Фон шапки"
 
 #: ../framework/admin/framework-panel.php:2389
 msgid "Main Navigation Styling"
-msgstr ""
+msgstr "Стиль главного меню"
 
 #: ../framework/admin/framework-panel.php:2392
 msgid "Main Navigation Background"
-msgstr ""
+msgstr "Фон главного меню"
 
 #: ../framework/admin/framework-panel.php:2397
 msgid "Main Navigation inner bottom border color"
-msgstr ""
+msgstr "Цвет нижней границы навигации"
 
 #: ../framework/admin/framework-panel.php:2402
 msgid "Sub Menu Background"
-msgstr ""
+msgstr "Подменю: Фоновый цвет"
 
 #: ../framework/admin/framework-panel.php:2417
 msgid "Current Item Link Color"
-msgstr ""
+msgstr "Цвет ссылок текущего элемента"
 
 #: ../framework/admin/framework-panel.php:2422
 msgid "Separator Line1 color"
-msgstr ""
+msgstr "Цвет Строки разделителя 1"
 
 #: ../framework/admin/framework-panel.php:2427
 msgid "Separator Line2 color"
-msgstr ""
+msgstr "Цвет Строки разделителя 2"
 
 #: ../framework/admin/framework-panel.php:2435
 msgid "Breaking News Styling"
-msgstr ""
+msgstr "Стиль Главных новостей"
 
 #: ../framework/admin/framework-panel.php:2438
 msgid "Breaking News Text Background"
-msgstr ""
+msgstr "Фон текста \"Главных новостей\""
 
 #: ../framework/admin/framework-panel.php:2445
 msgid "Content Styling"
-msgstr ""
+msgstr "Стилизация контента"
 
 #: ../framework/admin/framework-panel.php:2448
 msgid "Main Content Background"
-msgstr ""
+msgstr "Фона основного контента"
 
 #: ../framework/admin/framework-panel.php:2453
 msgid "Blocks / Widgets Background"
-msgstr ""
+msgstr "Фон Блоков/Виджетов"
 
 #: ../framework/admin/framework-panel.php:2460
 msgid "Post Styling"
-msgstr ""
+msgstr "Стиль новости"
 
 #: ../framework/admin/framework-panel.php:2463
 msgid "Post Links Color"
-msgstr ""
+msgstr "Цвет ссылок в новостях"
 
 #: ../framework/admin/framework-panel.php:2468
 msgid "Post Links Decoration"
-msgstr ""
+msgstr "Оформление ссылок в новостях"
 
 #: ../framework/admin/framework-panel.php:2478
 msgid "Post Links Color on mouse over"
-msgstr ""
+msgstr "Цвет ссылок в новостях при наведении мыши"
 
 #: ../framework/admin/framework-panel.php:2483
 msgid "Post Links Decoration on mouse over"
-msgstr ""
+msgstr "Украшение ссылок в новостях при наведении мыши"
 
 #: ../framework/admin/framework-panel.php:2494
 msgid "Footer Background"
-msgstr ""
+msgstr "Фон подвала"
 
 #: ../framework/admin/framework-panel.php:2502
 msgid "Footer Widget Title color"
-msgstr ""
+msgstr "Цвет заголовка виджета в подвале (footer)"
 
 #: ../framework/admin/framework-panel.php:2519
 msgid "Custom CSS"
-msgstr ""
+msgstr "Пользовательский CSS"
 
 #: ../framework/admin/framework-panel.php:2521
 msgid "Global CSS :"
-msgstr ""
+msgstr "Глобальный CSS:"
 
 #: ../framework/admin/framework-panel.php:2525
 msgid "Tablets:"
-msgstr ""
+msgstr "Планшеты:"
 
 #: ../framework/admin/framework-panel.php:2525
 msgid "768 - 985px"
-msgstr ""
+msgstr "768 - 985px"
 
 #: ../framework/admin/framework-panel.php:2529
 msgid "Wide Phones:"
-msgstr ""
+msgstr "Широкие Телефоны:"
 
 #: ../framework/admin/framework-panel.php:2529
 msgid "480 - 767px"
-msgstr ""
+msgstr "480 - 767px"
 
 #: ../framework/admin/framework-panel.php:2533
 msgid "Phones:"
-msgstr ""
+msgstr "Телефоны:"
 
 #: ../framework/admin/framework-panel.php:2533
 msgid "320 - 479px"
-msgstr ""
+msgstr "320 - 479px"
 
 #: ../framework/admin/framework-panel.php:2546
 msgid "Character sets"
-msgstr ""
+msgstr "Наборы символов"
 
 #: ../framework/admin/framework-panel.php:2547
 msgid "Tip:"
-msgstr ""
+msgstr "Совет:"
 
 #: ../framework/admin/framework-panel.php:2547
 msgid ""
 "If you choose only the languages that you need, you'll help prevent slowness "
 "on your webpage."
 msgstr ""
+"Если вы выбираете только языки, которые вам нужны, вы поможете предотвратить "
+"медлительность на вашем сайте."
 
 #: ../framework/admin/framework-panel.php:2550
 msgid "Latin Extended"
-msgstr ""
+msgstr "Латиница расширенная"
 
 #: ../framework/admin/framework-panel.php:2555
 msgid "Cyrillic"
-msgstr ""
+msgstr "Кирилица"
 
 #: ../framework/admin/framework-panel.php:2560
 msgid "Cyrillic Extended"
-msgstr ""
+msgstr "Кириллица расширенная"
 
 #: ../framework/admin/framework-panel.php:2565
 msgid "Greek"
-msgstr ""
+msgstr "Греческий"
 
 #: ../framework/admin/framework-panel.php:2570
 msgid "Greek Extended"
-msgstr ""
+msgstr "Греческий расширенный"
 
 #: ../framework/admin/framework-panel.php:2575
 msgid "Khmer"
-msgstr ""
+msgstr "Кхмерский"
 
 #: ../framework/admin/framework-panel.php:2580
 msgid "Vietnamese"
-msgstr ""
+msgstr "Вьетнамский"
 
 #: ../framework/admin/framework-panel.php:2587
 msgid "Live typography preview"
-msgstr ""
+msgstr "Предпросмотр"
 
 #: ../framework/admin/framework-panel.php:2595
 msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
 msgstr ""
+"Сварливые волшебники делают токсичное варево для злой Королевы и Джека."
 
 #: ../framework/admin/framework-panel.php:2599
 msgid "Main Typography"
-msgstr ""
+msgstr "Глапвные шрифты"
 
 #: ../framework/admin/framework-panel.php:2602
 msgid "General Typography"
-msgstr ""
+msgstr "Основные шривты"
 
 #: ../framework/admin/framework-panel.php:2607
 msgid "Site Title In Header"
-msgstr ""
+msgstr "Название сайта в заголовке"
 
 #: ../framework/admin/framework-panel.php:2612
 msgid "Tagline In Header"
-msgstr ""
+msgstr "Слоган в заголовке"
 
 #: ../framework/admin/framework-panel.php:2617
 msgid "Top Menu"
-msgstr ""
+msgstr "Верхнее меню"
 
 #: ../framework/admin/framework-panel.php:2622
 msgid "Main Navigation"
-msgstr ""
+msgstr "Главное меню"
 
 #: ../framework/admin/framework-panel.php:2627
 msgid "Slider Post Title"
-msgstr ""
+msgstr "Заголовок новости в слайдере"
 
 #: ../framework/admin/framework-panel.php:2632
 msgid "Page Title"
-msgstr ""
+msgstr "Заголовок страницы"
 
 #: ../framework/admin/framework-panel.php:2637
 msgid "Single Post Title"
-msgstr ""
+msgstr "Заголовок в одиночной новости"
 
 #: ../framework/admin/framework-panel.php:2642
 msgid "Post Title in Homepage Blocks and Post Titles in Blog Layout"
 msgstr ""
+"Заголовок новости в блоках главной страницы и  макете \"Блог\" (Blog Layout)"
 
 #: ../framework/admin/framework-panel.php:2647
 msgid "Small Post Title in Homepage Blocks"
-msgstr ""
+msgstr "Маленький заголовок новости в блоках главной страницы"
 
 #: ../framework/admin/framework-panel.php:2657
 msgid "Post Entry"
-msgstr ""
+msgstr "Сообщение новости (Post Entry)"
 
 #: ../framework/admin/framework-panel.php:2662
 msgid "Blockquotes"
-msgstr ""
+msgstr "Цитаты"
 
 #: ../framework/admin/framework-panel.php:2667
 msgid "Blocks Titles"
-msgstr ""
+msgstr "Заголовки блоков"
 
 #: ../framework/admin/framework-panel.php:2672
 msgid "Widgets Titles"
-msgstr ""
+msgstr "Заголовки виджетов"
 
 #: ../framework/admin/framework-panel.php:2677
 msgid "Footer Widgets Titles"
-msgstr ""
+msgstr "Названия виджетов в подвале"
 
 #: ../framework/admin/framework-panel.php:2710
 #: ../framework/admin/framework-panel.php:2713
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Расширенные настройки"
 
 #: ../framework/admin/framework-panel.php:2716
 msgid "Disable Arqam Lite"
-msgstr ""
+msgstr "Отключить Arqam Lite"
 
 #: ../framework/admin/framework-panel.php:2721
 msgid "Notify on theme updates"
-msgstr ""
+msgstr "Уведомить о изменениях темы"
 
 #: ../framework/admin/framework-panel.php:2726
 msgid "Disable the Responsiveness"
-msgstr ""
+msgstr "Отключить адаптивность"
 
 #: ../framework/admin/framework-panel.php:2730
 msgid ""
@@ -3162,42 +3170,47 @@ msgid ""
 "responsiveness action on the desktop .. edit style.css file and remove all "
 "Media Queries from the end of the file ."
 msgstr ""
+"Эта опция работает только на Планшетах и Телефонах .. для отключения "
+"адаптивности на экране .. откройте style.css файл и удалите все медиа "
+"запросы (Media Queries) с конца файла."
 
 #: ../framework/admin/framework-panel.php:2735
 #: ../framework/admin/framework-panel.php:2738
 msgid "WordPress Login page Logo"
-msgstr ""
+msgstr "Логотип страницы входа WordPress"
 
 #: ../framework/admin/framework-panel.php:2743
 msgid "WordPress Login page Logo URL"
-msgstr ""
+msgstr "Url логотипа страницы входа WordPress"
 
 #: ../framework/admin/framework-panel.php:2760
 msgid "Export"
-msgstr ""
+msgstr "Экспорт "
 
 #: ../framework/admin/framework-panel.php:2766
 msgid "Import"
-msgstr ""
+msgstr "Импорт"
 
 #: ../framework/admin/framework-panel.php:2783
 msgid "All settings will be rest .. Are you sure ?"
-msgstr ""
+msgstr "Все настройки будут удалены. Вы уверены?"
 
 #: ../framework/admin/framework-panel.php:2783
 msgid "Reset All Settings"
-msgstr ""
+msgstr "Сбросить все настройки"
 
 #: ../framework/admin/inc/importer/parsers.php:42
 #: ../framework/admin/inc/importer/parsers.php:63
 msgid "There was an error when reading this WXR file"
-msgstr ""
+msgstr "Произошла ошибка при чтении WXR файла"
 
 #: ../framework/admin/inc/importer/parsers.php:43
 msgid ""
 "Details are shown above. The importer will now try again with a different "
 "parser..."
 msgstr ""
+"Подробности показаны выше. Импортер сейчас будет пробовать снова с другим "
+"парсером…"
 
 #: ../framework/admin/inc/importer/parsers.php:67
 #: ../framework/admin/inc/importer/parsers.php:72
@@ -3206,6 +3219,7 @@ msgstr ""
 msgid ""
 "This does not appear to be a WXR file, missing/invalid WXR version number"
 msgstr ""
+"Не определяется WXR файл, отсутствует/недействительный номер версии WXR"
 
 #: ../framework/admin/inc/importer/tie-importer.php:193
 msgid ""
@@ -3214,29 +3228,40 @@ msgid ""
 "everything instead of creating content from scratch. When you import the "
 "data following things will happen:"
 msgstr ""
+"Импорт демо данных (записи, страницы, изображения, настройки, ...) самый "
+"простой способ настроить шаблон. Это позволит\\n быстро во всем разобраться "
+"и подредактировать для себя. При импорте произойдет следующее:"
 
 #: ../framework/admin/inc/importer/tie-importer.php:196
 msgid ""
 "No existing posts, pages, categories, images, custom post types or any other "
 "data will be deleted or modified."
 msgstr ""
+"Не существующие посты, страницы, категории, изображения, пользовательских "
+"типов посты или любые другие данные будут удалены или изменены."
 
 #: ../framework/admin/inc/importer/tie-importer.php:197
 msgid ""
 "About 10 posts, a few pages, 10+ images, some widgets and two menus will get "
 "imported."
 msgstr ""
+"Около 10 сообщений, несколько страниц, 10  изображения, некоторые виджеты и "
+"два меню будет импортироваться."
 
 #: ../framework/admin/inc/importer/tie-importer.php:198
 msgid ""
 "Images will be downloaded from our server, these images are copyrighted and "
 "are for demo use only."
 msgstr ""
+"Изображения будут загружены с нашего сервера, эти изображения защищены "
+"авторским правом и предназначены только для демо."
 
 #: ../framework/admin/inc/importer/tie-importer.php:199
 msgid ""
 "Please click import only once and wait, it can take a couple of minutes."
 msgstr ""
+"Пожалуйста, нажмите импорт только один раз и подождите, это может занять "
+"несколько минут."
 
 #: ../framework/admin/inc/importer/tie-importer.php:235
 msgid ""
@@ -3245,7 +3270,7 @@ msgid ""
 ">If this doesn't work please use the WordPress importer and import the XML "
 "file (should be located in your download .zip: Sample Content folder) "
 "manually"
-msgstr ""
+msgstr "XML файл с демо данными не доступен или не может быть прочитан."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:134
 #: ../framework/admin/inc/importer/wordpress-importer.php:143
@@ -3253,23 +3278,23 @@ msgstr ""
 #: ../framework/admin/inc/importer/wordpress-importer.php:198
 #: ../framework/admin/inc/importer/wordpress-importer.php:207
 msgid "Sorry, there has been an error."
-msgstr ""
+msgstr "Извините, произошла ошибка."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:135
 msgid "The file does not exist, please try again."
-msgstr ""
+msgstr "Файл не существует, попробуйте еще раз."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:178
 msgid "All done."
-msgstr ""
+msgstr "Всё готово."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:178
 msgid "Have fun!"
-msgstr ""
+msgstr "Наслаждайтесь!"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:179
 msgid "Remember to update the passwords and roles of imported users."
-msgstr ""
+msgstr "Не забудьте сменить пароли и роли импортированных пользователей."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:199
 #, php-format
@@ -3277,6 +3302,8 @@ msgid ""
 "The export file could not be found at <code>%s</code>. It is likely that "
 "this was caused by a permissions problem."
 msgstr ""
+"Файл экспорта не найден в <code>%s</code>. Возможно это вызвано проблемой "
+"доступа."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:215
 #, php-format
@@ -3284,6 +3311,8 @@ msgid ""
 "This WXR file (version %s) may not be supported by this version of the "
 "importer. Please consider updating."
 msgstr ""
+"WXR файл (версия %s) может не поддерживаться этой версией импортера. "
+"Пожалуйста, обновитесь."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:240
 #, php-format
@@ -3291,10 +3320,12 @@ msgid ""
 "Failed to import author %s. Their posts will be attributed to the current "
 "user."
 msgstr ""
+"Не удалось импортировать автора %s. Его записи будут присвоены текущему "
+"пользователю."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:266
 msgid "Assign Authors"
-msgstr ""
+msgstr "Назначить авторов"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:267
 msgid ""
@@ -3303,6 +3334,9 @@ msgid ""
 "site. For example, you may want to import all the entries as <code>admin</"
 "code>s entries."
 msgstr ""
+"Чтобы облегчить редактирование и сохранение импортированного содержимого, вы "
+"можете переназначить автора на существующего. Например выбрать <code>admin</"
+"code>."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:269
 #, php-format
@@ -3311,38 +3345,41 @@ msgid ""
 "generated and the new user&#8217;s role will be set as %s. Manually changing "
 "the new user&#8217;s details will be necessary."
 msgstr ""
+"Если новый пользователь создан WordPressом, его новый пароль будет "
+"сгенерирован случайно и его роль  будет %s. Необходимо вручную изменить роль "
+"нового пользователя."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:279
 msgid "Import Attachments"
-msgstr ""
+msgstr "Импортировать вложения"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:282
 msgid "Download and import file attachments"
-msgstr ""
+msgstr "Скачать и импортировать вложенные файлы"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:299
 msgid "Import author:"
-msgstr ""
+msgstr "Импорт автора:"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:310
 msgid "or create new user with login name:"
-msgstr ""
+msgstr "или создать нового пользователя с именем:"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:313
 msgid "as a new user:"
-msgstr ""
+msgstr "в качестве нового пользователя:"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:321
 msgid "assign posts to an existing user:"
-msgstr ""
+msgstr "назначить записи существующему пользователю:"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:323
 msgid "or assign posts to an existing user:"
-msgstr ""
+msgstr "или назначить записи существующему пользователю:"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:324
 msgid "- Select -"
-msgstr ""
+msgstr "- Выбрать -"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:374
 #, php-format
@@ -3350,80 +3387,82 @@ msgid ""
 "Failed to create new user for %s. Their posts will be attributed to the "
 "current user."
 msgstr ""
+"Не удалось создать нового пользователя для %s. Эти записи будут присвоены "
+"текущему пользователю."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:423
 #, php-format
 msgid "Failed to import category %s"
-msgstr ""
+msgstr "Не удалось импортировать рубрику %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:461
 #, php-format
 msgid "Failed to import post tag %s"
-msgstr ""
+msgstr "Не удалось импортировать метку записи %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:505
 #: ../framework/admin/inc/importer/wordpress-importer.php:631
 #, php-format
 msgid "Failed to import %s %s"
-msgstr ""
+msgstr "Не удалось импортировать %s %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:527
 #, php-format
 msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
-msgstr ""
+msgstr "Не удалось импортировать &#8220;%s&#8221;: недопустимый тип записи %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:548
 #, php-format
 msgid "%s &#8220;%s&#8221; already exists."
-msgstr ""
+msgstr "%s &#8220;%s&#8221; уже существует."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:603
 #, php-format
 msgid "Failed to import %s &#8220;%s&#8221;"
-msgstr ""
+msgstr "Не удалось импортировать %s &#8220;%s&#8221;"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:749
 msgid "Menu item skipped due to missing menu slug"
-msgstr ""
+msgstr "Элемент меню \"%s\" (id=%s) пропущен из-за отсутствующего ярлыка меню"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:756
 #, php-format
 msgid "Menu item skipped due to invalid menu slug: %s"
-msgstr ""
+msgstr "Элемент меню пропущен из-за недопустимого ярлыка меню: %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:832
 msgid "Fetching attachments is not enabled"
-msgstr ""
+msgstr "Получение вложений не включено"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:845
 msgid "Invalid file type"
-msgstr ""
+msgstr "Недопустимый тип файла"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:889
 msgid "Remote server did not respond"
-msgstr ""
+msgstr "Удаленный сервер не отвечает"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:895
 #, php-format
 msgid "Remote server returned error response %1$d %2$s"
-msgstr ""
+msgstr "Удаленный сервер вернул ошибку %1$d %2$s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:902
 msgid "Remote file is incorrect size"
-msgstr ""
+msgstr "Удаленный файл имеет неправильный размер"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:907
 msgid "Zero size file downloaded"
-msgstr ""
+msgstr "Загружен пустой файл"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:913
 #, php-format
 msgid "Remote file is too large, limit is %s"
-msgstr ""
+msgstr "Удаленный файл слишком большой, ограничение - %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:1012
 msgid "Import WordPress"
-msgstr ""
+msgstr "Импорт WordPress"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:1019
 #, php-format
@@ -3431,6 +3470,8 @@ msgid ""
 "A new version of this importer is available. Please update to version %s to "
 "ensure compatibility with newer export files."
 msgstr ""
+"Доступна новая версия импортера. Пожалуйста, обновите до версии %s для "
+"обеспечения совместимости с более новыми экспортируемыми файлами."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:1034
 msgid ""
@@ -3438,33 +3479,38 @@ msgid ""
 "the posts, pages, comments, custom fields, categories, and tags into this "
 "site."
 msgstr ""
+"Привет! Загрузите свой расширенный RSS-файл WordPress (WXR) и мы импортируем "
+"сообщения, страницы, комментарии, пользовательские поля, категории и теги в "
+"этот сайт."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:1035
 msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
 msgstr ""
+"Выберите WXR (.xml) файл для загрузки, затем нажмите \"Загрузить файл\" и "
+"импортируйте."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:24
 #: ../framework/admin/inc/notifier/update-notifier.php:77
 msgid "Theme Updates"
-msgstr ""
+msgstr "Обновления шаблона"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:24
 msgid "New"
-msgstr ""
+msgstr "Новый"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:81
 #, php-format
 msgid "There is a new version of the %s theme available."
-msgstr ""
+msgstr "Доступна новая версия темы %s."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:81
 #, php-format
 msgid "You have version %1$s installed. Update to version %2$s ."
-msgstr ""
+msgstr "У вас версия %1$s. Обновитесь до версии %2$s."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:89
 msgid "Updating Automatically"
-msgstr ""
+msgstr "Обновлять Автоматически"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:90
 msgid ""
@@ -3476,38 +3522,51 @@ msgid ""
 "\t\t\t\tand to automatically update (upon clicking) directly from within "
 "your WordPress admin area."
 msgstr ""
+"Envato разработали <a href=\"https://github.com/envato/envato-wordpress-"
+"toolkit\" target=\"_blank\">Envato Toolkit плагин</a> для WordPress. Вы "
+"можете использовать его, чтобы получать уведомления об обновлениях в темах "
+"приобретенных на ThemeForest и автоматически обновлять (при нажатии), "
+"непосредственно из вашей WordPress админки."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:95
 msgid ""
 "Download the <a href=\"https://github.com/envato/envato-wordpress-toolkit/"
 "zipball/master\">plugin zip file</a> to your computer."
 msgstr ""
+"Скачать <a href=\"https://github.com/envato/envato-wordpress-toolkit/zipball/"
+"master\">zip-файл плагина</a> на ваш компьютер"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:96
 msgid ""
 "In your WordPress admin area, go to <i>Plugins &gt; Add New</i> then click "
 "<i>Upload</i>."
 msgstr ""
+"В вашей WordPress админке, перейдите к <i>Плагины &gt; Добавить</i> и "
+"нажмите <i>Загрузить</i>"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:97
 msgid ""
 "Click <i>Choose File</i>, select the plugin zip file you downloaded and "
 "click <i>Install Now</i>."
 msgstr ""
+"Нажмите <i>Выбрать файл,</i> выберите файл плагина, который вы скачали и "
+"нажмите <i>Установить сейчас.</i>"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:98
 msgid "After installation, click <i>Activate</i>."
-msgstr ""
+msgstr "После установки, нажмите кнопку <i>Активировать</i>."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:99
 msgid ""
 "Click the new <i>Envato Toolkit</i> link in the menu and follow the "
 "instructions to configure the plugin."
 msgstr ""
+"Нажмите в меню ссылку Новый <i>Envato Toolkit</i> и следуйте инструкциям для "
+"конфигурирования плагина."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:102
 msgid "Updating Manually"
-msgstr ""
+msgstr "Обновлять Вручную"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:104
 msgid ""
@@ -3515,22 +3574,27 @@ msgid ""
 "downloads?ref=tielabs\" target=\"_blank\">ThemeForest</a> in the "
 "<i>Downloads</i> area of your account."
 msgstr ""
+"Скачать самую последнюю версию с <a href=\"http://themeforest.net/downloads?"
+"ref=tielabs\" target=\"_blank\">ThemeForest</a> в области <i>Загрузка</i> "
+"вашей учетной записи."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:105
 #, php-format
 msgid "Unzip the package and locate <i>%s.zip</i> in the theme folder."
-msgstr ""
+msgstr "Разархивируйте пакет и найдите <i>%s.zip</i> в папке темы."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:106
 msgid ""
 "Go to <i>Appearance &gt; Themes</i> and activate another theme such as the "
 "default WordPress theme."
 msgstr ""
+"Перейти к <i>Внешний вид  &gt; Темы</i> и активируйте другую тему, такую как "
+"WordPress тема по умолчанию."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:107
 #, php-format
 msgid "Delete the <i>%s</i> theme which is now inactive."
-msgstr ""
+msgstr "Удалить <i>%s</i> тему, которая в настоящее время неактивна."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:108
 #, php-format
@@ -3538,10 +3602,12 @@ msgid ""
 "Go to <i>Install Themes &gt; Upload</i> then install and activate <i>%s.zip</"
 "i> from the new package."
 msgstr ""
+"Перейдите к <i>Установка тем &gt; Загрузить</i> и потом установите и "
+"активируйте <i>%s.zip</i> из нового пакета."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:114
 msgid "Changelog"
-msgstr ""
+msgstr "Список изменений"
 
 #: ../framework/blocks/block-categories.php:58
 #: ../framework/blocks/block-categories.php:109
@@ -3558,18 +3624,18 @@ msgstr ""
 #: ../framework/loops/loop-masonry.php:29
 #: ../framework/loops/loop-wide-featured.php:24
 msgid "Read More &raquo;"
-msgstr ""
+msgstr "Читать далее &raquo;"
 
 #: ../framework/blocks/block-woocommerce.php:70
 #: ../framework/blocks/block-woocommerce.php:119
 #: ../framework/functions/translation.php:62
 msgid "No products found"
-msgstr ""
+msgstr "Продуктов не найдено"
 
 #: ../framework/functions/arqam-lite.php:32
 #: ../framework/functions/arqam-lite.php:117
 msgid "Fans"
-msgstr ""
+msgstr "Поклонники"
 
 #: ../framework/functions/arqam-lite.php:33
 #: ../framework/functions/arqam-lite.php:34
@@ -3588,7 +3654,7 @@ msgstr ""
 #: ../framework/functions/arqam-lite.php:255
 #: ../framework/functions/arqam-lite.php:270
 msgid "Followers"
-msgstr ""
+msgstr "Аудитория"
 
 #: ../framework/functions/arqam-lite.php:35
 #: ../framework/functions/arqam-lite.php:36
@@ -3597,36 +3663,36 @@ msgstr ""
 #: ../framework/functions/arqam-lite.php:180
 #: ../framework/functions/arqam-lite.php:285
 msgid "Subscribers"
-msgstr ""
+msgstr "Подписчики"
 
 #: ../framework/functions/arqam-lite.php:760
 msgid "Style :"
-msgstr ""
+msgstr "Стиль:"
 
 #: ../framework/functions/arqam-lite.php:762
 msgid "Gray Icons"
-msgstr ""
+msgstr "Серые иконки"
 
 #: ../framework/functions/arqam-lite.php:763
 msgid "Colored Icons"
-msgstr ""
+msgstr "Цветные иконки"
 
 #: ../framework/functions/arqam-lite.php:764
 msgid "Colored border Icons"
-msgstr ""
+msgstr "Иконки с цветным бордюром"
 
 #: ../framework/functions/arqam-lite.php:875
 #: ../framework/functions/arqam-lite.php:882
 msgid "FaceBook App info"
-msgstr ""
+msgstr "Информация FaceBook App"
 
 #: ../framework/functions/arqam-lite.php:887
 msgid "App ID"
-msgstr ""
+msgstr "App ID"
 
 #: ../framework/functions/arqam-lite.php:891
 msgid "App Secret"
-msgstr ""
+msgstr "Секретный ключ (App Secret)"
 
 #: ../framework/functions/arqam-lite.php:896
 #: ../framework/functions/arqam-lite.php:991
@@ -3643,7 +3709,7 @@ msgstr ""
 #: ../framework/functions/arqam-lite.php:1290
 #: ../framework/functions/arqam-lite.php:1349
 msgid "Need Help?"
-msgstr ""
+msgstr "Требуется помощь?"
 
 #: ../framework/functions/arqam-lite.php:896
 #, php-format
@@ -3651,32 +3717,34 @@ msgid ""
 "Enter Your App ID and App Secret, <a href=\"%s\" target=\"_blank\">Click "
 "Here</a> For More Details."
 msgstr ""
+"Введите Ваш App ID и App секрет, <a href=\"%s\" target=\"_blank\">Нажмите "
+"здесь</a> для более подробной информации."
 
 #: ../framework/functions/arqam-lite.php:905
 #: ../framework/functions/arqam-lite.php:1000
 msgid "Submit"
-msgstr ""
+msgstr "Отправить"
 
 #: ../framework/functions/arqam-lite.php:964
 #: ../framework/functions/arqam-lite.php:971
 msgid "Instagram App info"
-msgstr ""
+msgstr "Информация Instagram App"
 
 #: ../framework/functions/arqam-lite.php:976
 msgid "Client ID"
-msgstr ""
+msgstr "ID Клиентa (Client ID)"
 
 #: ../framework/functions/arqam-lite.php:980
 msgid "Client Secret"
-msgstr ""
+msgstr "Секрет клиента (Client Secret)"
 
 #: ../framework/functions/arqam-lite.php:984
 msgid "Follow The Team"
-msgstr ""
+msgstr "Следить за командой"
 
 #: ../framework/functions/arqam-lite.php:986
 msgid "Follow @tielabs and @imo3aser on instagram."
-msgstr ""
+msgstr "Следить за @tielabs и @imo3aser в instagram."
 
 #: ../framework/functions/arqam-lite.php:991
 #, php-format
@@ -3684,27 +3752,29 @@ msgid ""
 "Enter Your App Client ID and App Client Secret, <a href=\"%s\" target="
 "\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Введите Ваш App Client ID и App Client Secret, <a href=\"%s\" target=\"_blank"
+"\">Нажмите здесь</a> для более подробной информации."
 
 #: ../framework/functions/arqam-lite.php:1012
 msgid "Settings saved."
-msgstr ""
+msgstr "Настройки сохранены."
 
 #: ../framework/functions/arqam-lite.php:1014
 msgid "Arqam Lite Settings"
-msgstr ""
+msgstr "Настройки Arqam Lite"
 
 #: ../framework/functions/arqam-lite.php:1014
 #: ../framework/functions/arqam-lite.php:1362
 msgid "Need More?"
-msgstr ""
+msgstr "Хотите больше?"
 
 #: ../framework/functions/arqam-lite.php:1021
 msgid "FaceBook"
-msgstr ""
+msgstr "FaceBook"
 
 #: ../framework/functions/arqam-lite.php:1026
 msgid "Page ID/Name"
-msgstr ""
+msgstr "ID страницы / Имя"
 
 #: ../framework/functions/arqam-lite.php:1030
 #: ../framework/functions/arqam-lite.php:1058
@@ -3719,17 +3789,17 @@ msgstr ""
 #: ../framework/functions/arqam-lite.php:1278
 #: ../framework/functions/arqam-lite.php:1324
 msgid "Text Below The Number"
-msgstr ""
+msgstr "Текст под номером"
 
 #: ../framework/functions/arqam-lite.php:1034
 #: ../framework/functions/arqam-lite.php:1282
 msgid "Access Token Key"
-msgstr ""
+msgstr "Ключ маркера доступа"
 
 #: ../framework/functions/arqam-lite.php:1037
 #: ../framework/functions/arqam-lite.php:1285
 msgid "Get Access Token"
-msgstr ""
+msgstr "Получить ключ доступа"
 
 #: ../framework/functions/arqam-lite.php:1042
 #, php-format
@@ -3738,11 +3808,14 @@ msgid ""
 "your App Access Token, <a href=\"%s\" target=\"_blank\">Click Here</a> For "
 "More Details."
 msgstr ""
+"Введите ваше имя страницы Facebook или ID и нажмите кнопку \"Получить маркер "
+"доступа\" для получения маркера доступа вашего приложения <a href=\"%s\" "
+"target=\"_blank\">Нажмите здесь</a> Для более подробной информации."
 
 #: ../framework/functions/arqam-lite.php:1049 ../framework/parts/share.php:23
 #: ../framework/widgets/widget-twitter.php:12
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ../framework/functions/arqam-lite.php:1054
 #: ../framework/functions/arqam-lite.php:1165
@@ -3752,15 +3825,15 @@ msgstr ""
 #: ../framework/functions/arqam-lite.php:1253
 #: ../framework/functions/arqam-lite.php:1274
 msgid "UserName"
-msgstr ""
+msgstr "Имя пользователя"
 
 #: ../framework/functions/arqam-lite.php:1062
 msgid "Consumer key"
-msgstr ""
+msgstr "Пользовательский ключ"
 
 #: ../framework/functions/arqam-lite.php:1066
 msgid "Consumer secret"
-msgstr ""
+msgstr "Пользовательский секретный ключ"
 
 #: ../framework/functions/arqam-lite.php:1071
 #, php-format
@@ -3768,18 +3841,20 @@ msgid ""
 "Enter Your Twitter Account Username , your APP Consumer key and Consumer "
 "secret, <a href=\"%s\" target=\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Введите Ваше имя входа в Twitter, ключ приложения и секрет,  <a href=\"%s\" "
+"target=\"_blank\">Нажмите здесь</a> для более подробной информации."
 
 #: ../framework/functions/arqam-lite.php:1078
 msgid "Google+"
-msgstr ""
+msgstr "Google+"
 
 #: ../framework/functions/arqam-lite.php:1083
 msgid "Google+ ID"
-msgstr ""
+msgstr "Google+ ID"
 
 #: ../framework/functions/arqam-lite.php:1087
 msgid "Google API Key"
-msgstr ""
+msgstr "Google API ключ"
 
 #: ../framework/functions/arqam-lite.php:1096
 #, php-format
@@ -3787,23 +3862,25 @@ msgid ""
 "Enter Your Google+ page or profile ID and Google API Key, <a href=\"%s\" "
 "target=\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Укажите Вашу страницу Google+ или ID профиля и Google API ключ, <a href=\"%s"
+"\" target=\"_blank\">Нажмите здесь</a> для более подробной информации."
 
 #: ../framework/functions/arqam-lite.php:1102
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #: ../framework/functions/arqam-lite.php:1107
 msgid "Username or Channel ID"
-msgstr ""
+msgstr "Логин или ID канала"
 
 #: ../framework/functions/arqam-lite.php:1111
 msgid "Youtube API Key"
-msgstr ""
+msgstr "Youtube API ключ"
 
 #: ../framework/functions/arqam-lite.php:1119
 #: ../framework/functions/arqam-lite.php:1328
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #: ../framework/functions/arqam-lite.php:1132
 #, php-format
@@ -3812,36 +3889,39 @@ msgid ""
 "Channel from Type menu, <a href=\"%s\" target=\"_blank\">Click Here</a> For "
 "More Details."
 msgstr ""
+"Введите Ваш логин YouTube или идентификатор канала, API ключ и выберите "
+"пользователя или канала в меню Тип, <a href=\"%s\" target=\"_blank\">Нажмите "
+"здесь</a> для более подробной информации."
 
 #: ../framework/functions/arqam-lite.php:1139
 msgid "Vimeo"
-msgstr ""
+msgstr "Vimeo"
 
 #: ../framework/functions/arqam-lite.php:1144
 msgid "Channel Name"
-msgstr ""
+msgstr "Имя канала"
 
 #: ../framework/functions/arqam-lite.php:1153
 msgid "Enter Your Vimeo Channel Name."
-msgstr ""
+msgstr "Введите имя Вашего Vimeo канала "
 
 #: ../framework/functions/arqam-lite.php:1160
 msgid "Dribbble"
-msgstr ""
+msgstr "Dribbble"
 
 #: ../framework/functions/arqam-lite.php:1174
 msgid "Enter Your Dribbble Account Username."
-msgstr ""
+msgstr "Введите Ваше имя пользователя Dribbble"
 
 #: ../framework/functions/arqam-lite.php:1180
 #: ../framework/widgets/widget-soundcloud.php:11
 msgid "SoundCloud"
-msgstr ""
+msgstr "SoundCloud"
 
 #: ../framework/functions/arqam-lite.php:1193
 #: ../framework/functions/arqam-lite.php:1217
 msgid "API Key"
-msgstr ""
+msgstr "API ключ"
 
 #: ../framework/functions/arqam-lite.php:1198
 #, php-format
@@ -3849,10 +3929,12 @@ msgid ""
 "Enter Your SoundCloud Account Username and the API Key, <a href=\"%s\" "
 "target=\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Введите Ваше имя входа SoundCloud и ключ API, <a href=\"%s\" target=\"_blank"
+"\">Нажмите здесь</a> для более подробной информации."
 
 #: ../framework/functions/arqam-lite.php:1204
 msgid "Behance"
-msgstr ""
+msgstr "Behance"
 
 #: ../framework/functions/arqam-lite.php:1222
 #, php-format
@@ -3860,26 +3942,28 @@ msgid ""
 "Enter Your Behance Account Username and the API Key, <a href=\"%s\" target="
 "\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Введите Ваше имя входа Behance и ключ API, <a href=\"%s\" target=\"_blank"
+"\">Нажмите здесь</a> для более подробной информации."
 
 #: ../framework/functions/arqam-lite.php:1228
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: ../framework/functions/arqam-lite.php:1242
 msgid "Enter Your Github Account Username."
-msgstr ""
+msgstr "Введите Ваше имя пользователя Github"
 
 #: ../framework/functions/arqam-lite.php:1248
 msgid "Delicious"
-msgstr ""
+msgstr "Delicious"
 
 #: ../framework/functions/arqam-lite.php:1263
 msgid "Enter Your Delicious Account Username."
-msgstr ""
+msgstr "Введите Ваше имя пользователя Delicious."
 
 #: ../framework/functions/arqam-lite.php:1269
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #: ../framework/functions/arqam-lite.php:1290
 #, php-format
@@ -3888,22 +3972,25 @@ msgid ""
 "Access Token, <a href=\"%s\" target=\"_blank\">Click Here</a> For More "
 "Details."
 msgstr ""
+"Введите Ваше имя входа Instagram и нажмите на \"Получить маркер доступа\" "
+"для получения маркера доступа вашего приложения <a href=\"%s\" target="
+"\"_blank\">Нажмите здесь</a> для более подробной информации."
 
 #: ../framework/functions/arqam-lite.php:1296
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ../framework/functions/arqam-lite.php:1320
 msgid "Feed URL"
-msgstr ""
+msgstr "URL ленты"
 
 #: ../framework/functions/arqam-lite.php:1340
 msgid "Feedpress Json file URL"
-msgstr ""
+msgstr "Url Json файла Feedpress"
 
 #: ../framework/functions/arqam-lite.php:1344
 msgid "Number of Subscribers"
-msgstr ""
+msgstr "Количество подписчиков"
 
 #: ../framework/functions/arqam-lite.php:1349
 #, php-format
@@ -3911,11 +3998,16 @@ msgid ""
 "Enter Your Feed URl and the Feedpress Json file URL or Number of Subscribers "
 "manually  <a href=\"%s\" target=\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Введите URL Вашей ленты и Feedpress URL  JSON файла или количество "
+"подписчиков вручную <a href=\"%s\" target=\"_blank\">Нажмите здесь</a> для "
+"более подробной информации."
 
 #: ../framework/functions/arqam-lite.php:1364
 msgid ""
 "Purchase the full version of Arqam plugin to get all following features :"
 msgstr ""
+"Купить полную версию плагина Arqam, чтобы получить все следующие "
+"характеристики:"
 
 #: ../framework/functions/arqam-lite.php:1366
 msgid "Drag an Drop feature to sort icons as you wish !"
