@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Sahifa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-22 15:33+0200\n"
-"PO-Revision-Date: 2015-10-01 20:31+0300\n"
+"PO-Revision-Date: 2015-10-02 19:03+0300\n"
 "Last-Translator: Fouad Badawy <support@tielabs.com>\n"
 "Language-Team: Tielabs <info@tielabs.com>\n"
 "Language: ru\n"
@@ -822,7 +822,7 @@ msgstr "Кнопка Tweet"
 #: ../framework/admin/framework-admin.php:233
 #: ../framework/functions/theme-functions.php:658
 msgid "Twitter Username"
-msgstr ""
+msgstr "Имя пользователя для Twitter:"
 
 #: ../framework/admin/framework-admin.php:234
 msgid "Dropcap"
@@ -4011,299 +4011,302 @@ msgstr ""
 
 #: ../framework/functions/arqam-lite.php:1366
 msgid "Drag an Drop feature to sort icons as you wish !"
-msgstr ""
+msgstr "Перетащите нужный элемент для сортировки иконок, так как вы хотите!"
 
 #: ../framework/functions/arqam-lite.php:1367
 msgid "Option To set the Cache time to reduce load time and API calls."
 msgstr ""
+"Возможность установить время кэша, чтобы сократить время загрузки и вызовов "
+"API."
 
 #: ../framework/functions/arqam-lite.php:1368
 msgid "More Layout options."
-msgstr ""
+msgstr "Дополнительные параметры макета."
 
 #: ../framework/functions/arqam-lite.php:1369
 msgid "More Social Networks:"
-msgstr ""
+msgstr "Дополнительные социальные сети:"
 
 #: ../framework/functions/arqam-lite.php:1390
 msgid "Members Number"
-msgstr ""
+msgstr "Количество пользователей"
 
 #: ../framework/functions/arqam-lite.php:1391
 msgid "Posts Number"
-msgstr ""
+msgstr "Количество новостей"
 
 #: ../framework/functions/arqam-lite.php:1392
 msgid "Comments Number"
-msgstr ""
+msgstr "Количество комментариев"
 
 #: ../framework/functions/arqam-lite.php:1405
 msgid "Save Settings"
-msgstr ""
+msgstr "Сохранить настройки"
 
 #: ../framework/functions/arqam-lite.php:1410
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 #: ../framework/functions/breadcrumbs.php:17
 #: ../framework/functions/translation.php:105
 msgid "Home"
-msgstr ""
+msgstr "Домой"
 
 #: ../framework/functions/breadcrumbs.php:78
 #: ../framework/functions/translation.php:17 ../search.php:9
 #, php-format
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Результаты поиска для: %s"
 
 #: ../framework/functions/breadcrumbs.php:112
 #: ../framework/functions/translation.php:29 ../tag.php:8
 #, php-format
 msgid "Tag Archives: %s"
-msgstr ""
+msgstr "Архив тегов: %s"
 
 #: ../framework/functions/breadcrumbs.php:131
 #: ../framework/functions/translation.php:91
 msgid "page"
-msgstr ""
+msgstr "страница"
 
 #: ../framework/functions/common-scripts.php:77
 #: ../framework/functions/translation.php:19
 msgid "No Results"
-msgstr ""
+msgstr "Нет результатов"
 
 #: ../framework/functions/common-scripts.php:78
 #: ../framework/functions/translation.php:18
 msgid "Results Found"
-msgstr ""
+msgstr "Результатов найдено"
 
 #: ../framework/functions/mega-menus.php:349
 msgid "Menu Icon"
-msgstr ""
+msgstr "Значок Меню"
 
 #: ../framework/functions/mega-menus.php:358
 msgid "Enable Mega Menu ?"
-msgstr ""
+msgstr "Включить Мега Меню?"
 
 #: ../framework/functions/mega-menus.php:362
 msgid "Sub Categories + Posts"
-msgstr ""
+msgstr "Подрубрики + Новости"
 
 #: ../framework/functions/mega-menus.php:363
 msgid "Recent post + Check also"
-msgstr ""
+msgstr "Свежие новости + Проверьте также"
 
 #: ../framework/functions/mega-menus.php:365
 msgid "Mega Links"
-msgstr ""
+msgstr "Мега Ссылки"
 
 #: ../framework/functions/mega-menus.php:371
 msgid "Mega Links - Columns"
-msgstr ""
+msgstr "Mega Ссылки - Столбцы"
 
 #: ../framework/functions/mega-menus.php:384
 msgid "Mega Menu Background Image"
-msgstr ""
+msgstr "Мега Меню - Фоновое изображение"
 
 #: ../framework/functions/mega-menus.php:410
 msgid "Padding Right"
-msgstr ""
+msgstr "Внутренний отступ справа"
 
 #: ../framework/functions/mega-menus.php:417
 msgid "Padding left"
-msgstr ""
+msgstr "Внутр. отступ слева"
 
 #: ../framework/functions/mega-menus.php:424
 msgid "Min Height"
-msgstr ""
+msgstr "Миним. высота"
 
 #: ../framework/functions/mega-menus.php:560
 #, php-format
 msgid "%s (Invalid)"
-msgstr ""
+msgstr "%s (неверно)"
 
 #: ../framework/functions/mega-menus.php:564
 #, php-format
 msgid "%s (Pending)"
-msgstr ""
+msgstr "%s (в ожидании)"
 
 #: ../framework/functions/mega-menus.php:577
 msgid "sub item"
-msgstr ""
+msgstr "подпункт"
 
 #: ../framework/functions/mega-menus.php:609
 msgid "Edit Menu Item"
-msgstr ""
+msgstr "Редактировать пункт меню"
 
 #: ../framework/functions/mega-menus.php:625
 msgid "Navigation Label"
-msgstr ""
+msgstr "Ярлык на копках меню"
 
 #: ../framework/functions/mega-menus.php:631
 msgid "Title Attribute"
-msgstr ""
+msgstr "Атрибут заголовка"
 
 #: ../framework/functions/mega-menus.php:643
 msgid "CSS Classes (optional)"
-msgstr ""
+msgstr "CSS Классы (опционально)"
 
 #: ../framework/functions/mega-menus.php:649
 msgid "Link Relationship (XFN)"
-msgstr ""
+msgstr "Партнерская ссылка  (XFN)"
 
 #: ../framework/functions/mega-menus.php:655
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #: ../framework/functions/mega-menus.php:657
 msgid ""
 "The description will be displayed in the menu if the current theme supports "
 "it."
 msgstr ""
+"Описание будет отображаться в меню, если текущая тема поддерживает его."
 
 #: ../framework/functions/mega-menus.php:672
 msgid "Move"
-msgstr ""
+msgstr "Переместить"
 
 #: ../framework/functions/mega-menus.php:673
 msgid "Up one"
-msgstr ""
+msgstr "Вверх на один"
 
 #: ../framework/functions/mega-menus.php:674
 msgid "Down one"
-msgstr ""
+msgstr "Вниз на один"
 
 #: ../framework/functions/mega-menus.php:677
 msgid "To the top"
-msgstr ""
+msgstr "В самый верх"
 
 #: ../framework/functions/mega-menus.php:684
 #, php-format
 msgid "Original: %s"
-msgstr ""
+msgstr "Оригинал: %s"
 
 #: ../framework/functions/mega-menus.php:697
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
 #: ../framework/functions/mega-menus.php:698
 msgid "Cancel"
-msgstr ""
+msgstr "Отменить"
 
 #: ../framework/functions/pagenavi.php:167
 #: ../framework/functions/translation.php:96
 msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
-msgstr ""
+msgstr "Страница %CURRENT_PAGE% из %TOTAL_PAGES%"
 
 #: ../framework/functions/pagenavi.php:170
 #: ../framework/functions/translation.php:92
 msgid "&laquo; First"
-msgstr ""
+msgstr "&laquo; Первая"
 
 #: ../framework/functions/pagenavi.php:171
 #: ../framework/functions/translation.php:93
 msgid "Last &raquo;"
-msgstr ""
+msgstr "Последняя &raquo;"
 
 #: ../framework/functions/pagenavi.php:172
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #: ../framework/functions/pagenavi.php:173
 msgid "&laquo;"
-msgstr ""
+msgstr "&laquo;"
 
 #: ../framework/functions/search-live.php:103
 #: ../framework/functions/translation.php:20
 msgid "View All Results"
-msgstr ""
+msgstr "Просмотреть все результаты"
 
 #: ../framework/functions/theme-functions.php:32
 msgid "Top Menu Navigation"
-msgstr ""
+msgstr "Верхнее Меню"
 
 #: ../framework/functions/theme-functions.php:33
 msgid "Primary Navigation"
-msgstr ""
+msgstr "Основная навигация"
 
 #: ../framework/functions/theme-functions.php:614
 #: ../framework/functions/theme-functions.php:617
 msgid "Cover Image"
-msgstr ""
+msgstr "Изображение обложки"
 
 #: ../framework/functions/theme-functions.php:639
 msgid "Custom Author widget"
-msgstr ""
+msgstr "Настраиваемый виджет автора"
 
 #: ../framework/functions/theme-functions.php:642
 msgid "Custom Author widget content"
-msgstr ""
+msgstr "Содержимое пользовательского виджета Автор"
 
 #: ../framework/functions/theme-functions.php:740
 msgid "No items."
-msgstr ""
+msgstr "Нет элементов."
 
 #: ../framework/functions/theme-functions.php:745
 msgid "Posted "
-msgstr ""
+msgstr "Опубликовано"
 
 #: ../framework/functions/theme-functions.php:1180
 #: ../framework/functions/translation.php:77
 msgid "Welcome"
-msgstr ""
+msgstr "Добро пожаловать"
 
 #: ../framework/functions/theme-functions.php:1182
 #: ../framework/functions/translation.php:78
 msgid "Dashboard"
-msgstr ""
+msgstr "Панель управления"
 
 #: ../framework/functions/theme-functions.php:1183
 #: ../framework/functions/translation.php:79
 msgid "Your Profile"
-msgstr ""
+msgstr "Ваш профиль"
 
 #: ../framework/functions/theme-functions.php:1184
 #: ../framework/functions/translation.php:80
 msgid "Logout"
-msgstr ""
+msgstr "Выход"
 
 #: ../framework/functions/theme-functions.php:1192
 #: ../framework/functions/translation.php:81
 msgid "Username"
-msgstr ""
+msgstr "Имя пользователя"
 
 #: ../framework/functions/theme-functions.php:1193
 #: ../framework/functions/translation.php:82
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 #: ../framework/functions/theme-functions.php:1194
 #: ../framework/functions/translation.php:83
 msgid "Log in"
-msgstr ""
+msgstr "Вход"
 
 #: ../framework/functions/theme-functions.php:1195
 #: ../framework/functions/translation.php:84
 msgid "Remember Me"
-msgstr ""
+msgstr "Запомнить меня"
 
 #: ../framework/functions/theme-functions.php:1200
 #: ../framework/functions/translation.php:85
 msgid "Lost your password?"
-msgstr ""
+msgstr "Забыли ваш пароль?"
 
 #: ../framework/functions/theme-functions.php:1284
 #: ../framework/functions/translation.php:103
 #: ../framework/widgets/widget-twitter.php:108
 #, php-format
 msgid "%s ago"
-msgstr ""
+msgstr "%s тому назад"
 
 #: ../framework/functions/theme-functions.php:1450
 #: ../framework/functions/translation.php:95
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "﻿%1$s в %2$s"
 
 #: ../framework/functions/theme-functions.php:1450
 #: ../framework/functions/theme-functions.php:1474
@@ -4313,92 +4316,94 @@ msgstr ""
 #: ../template-sitemap.php:64 ../template-tags.php:44
 #: ../template-timeline.php:80
 msgid "Edit"
-msgstr ""
+msgstr "Правка"
 
 #: ../framework/functions/theme-functions.php:1455
 #: ../framework/functions/translation.php:44
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "Ваш комментарий ожидает проверки модератором."
 
 #: ../framework/functions/theme-functions.php:1474
 #: ../framework/functions/translation.php:45
 msgid "Pingback:"
-msgstr ""
+msgstr "Уведомление:"
 
 #: ../framework/functions/theme-functions.php:1562
 msgid "Install Required Plugins"
-msgstr ""
+msgstr "Установить требуемые плагины"
 
 #: ../framework/functions/theme-functions.php:1563
 msgid "Install Plugins"
-msgstr ""
+msgstr "Установить плагины"
 
 #: ../framework/functions/theme-functions.php:1564
 #, php-format
 msgid "Installing Plugin: %s"
-msgstr ""
+msgstr "Установка плагина: %s"
 
 #: ../framework/functions/theme-functions.php:1565
 msgid "Something went wrong with the plugin API."
-msgstr ""
+msgstr "Что-то пошло не так с API плагина."
 
 #: ../framework/functions/theme-functions.php:1576
 msgid "Return to Required Plugins Installer"
-msgstr ""
+msgstr "Вернутся к установке необходимых плагинов"
 
 #: ../framework/functions/theme-functions.php:1577
 msgid "Plugin activated successfully."
-msgstr ""
+msgstr "Плагин успешно активирован."
 
 #: ../framework/functions/theme-functions.php:1578
 #, php-format
 msgid "All plugins installed and activated successfully. %s"
-msgstr ""
+msgstr "Все плагины установлены и активированы успешно. %s"
 
 #: ../framework/functions/theme-functions.php:1772
 msgid "Review Overview"
-msgstr ""
+msgstr "Просмотр обзора"
 
 #: ../framework/functions/tie-views.php:82
 #: ../framework/functions/translation.php:60
 #: ../framework/parts/meta-post.php:18
 msgid "Views"
-msgstr ""
+msgstr "Просмотров"
 
 #: ../framework/functions/translation.php:21 ../search.php:28
 msgid ""
 "Sorry, but nothing matched your search criteria. Please try again with some "
 "different keywords."
 msgstr ""
+"Извините, ничего не найдено. Пожалуйста, попробуйте еще раз с другими "
+"ключевыми словами."
 
 #: ../framework/functions/translation.php:24
 msgid "Archives"
-msgstr ""
+msgstr "Архивы"
 
 #: ../framework/functions/translation.php:34
 #: ../framework/widgets/widget-tabbed.php:39
 #: ../framework/widgets/widget-tabbed.php:153
 msgid "Comments"
-msgstr ""
+msgstr "Комментарии"
 
 #: ../framework/functions/translation.php:38
 #: ../framework/parts/meta-post.php:15
 msgid "1 Comment"
-msgstr ""
+msgstr "Один комментарий"
 
 #: ../framework/functions/translation.php:39
 #: ../framework/parts/meta-post.php:15
 msgid "% Comments"
-msgstr ""
+msgstr "% Комментариев"
 
 #: ../framework/functions/translation.php:41
 #: ../framework/parts/meta-post.php:15
 msgid "Leave a comment"
-msgstr ""
+msgstr "Оставить комментарий"
 
 #: ../framework/functions/translation.php:48
 msgid "Posts"
-msgstr ""
+msgstr "Новости"
 
 #: ../framework/functions/translation.php:50 ../page.php:84 ../single.php:65
 #: ../template-authors.php:32 ../template-best-reviews.php:31
@@ -4406,184 +4411,184 @@ msgstr ""
 #: ../template-sitemap.php:32 ../template-tags.php:32
 #: ../template-timeline.php:31
 msgid "Pages:"
-msgstr ""
+msgstr "Страницы:"
 
 #: ../framework/functions/translation.php:53 ../single.php:94
 msgid "About"
-msgstr ""
+msgstr "О нас"
 
 #: ../framework/functions/translation.php:54 ../single.php:105
 msgid "Previous"
-msgstr ""
+msgstr "Предыдущий"
 
 #: ../framework/functions/translation.php:55
 #: ../framework/shortcodes/shortcodes.php:402
 #: ../framework/shortcodes/shortcodes.php:410
 msgid "Prev"
-msgstr ""
+msgstr "Предыдущая"
 
 #: ../framework/functions/translation.php:56
 #: ../framework/shortcodes/shortcodes.php:401
 #: ../framework/shortcodes/shortcodes.php:409 ../single.php:106
 msgid "Next"
-msgstr ""
+msgstr "Дальше"
 
 #: ../framework/functions/translation.php:57 ../template-sitemap.php:36
 msgid "Pages"
-msgstr ""
+msgstr "Страницы"
 
 #: ../framework/functions/translation.php:59 ../template-sitemap.php:58
 msgid "Authors"
-msgstr ""
+msgstr "Авторы"
 
 #: ../framework/functions/translation.php:63 ../framework/parts/share.php:13
 msgid "Share"
-msgstr ""
+msgstr "Поделиться"
 
 #: ../framework/functions/translation.php:64
 #: ../framework/parts/related-posts.php:29
 msgid "Related Articles"
-msgstr ""
+msgstr "Возможно, вас заинтересует"
 
 #: ../framework/functions/translation.php:65
 #: ../woocommerce/single-product/related.php:38
 msgid "Related Products"
-msgstr ""
+msgstr "Похожие товары"
 
 #: ../framework/functions/translation.php:66 ../template-restrict.php:38
 msgid "You must be logged in to view this page."
-msgstr ""
+msgstr "Вы должны быть авторизованы для просмотра этой страницы."
 
 #: ../framework/functions/translation.php:69
 msgid "Widgets"
-msgstr ""
+msgstr "Виджеты"
 
 #: ../framework/functions/translation.php:71
 #: ../framework/widgets/widget-author.php:98
 msgid "All Posts"
-msgstr ""
+msgstr "Все Новости"
 
 #: ../framework/functions/translation.php:72
 #: ../framework/widgets/widget-author.php:90
 #, php-format
 msgid "By %s"
-msgstr ""
+msgstr "От  %s"
 
 #: ../framework/functions/translation.php:73
 #: ../framework/widgets/widget-author.php:23
 #, php-format
 msgid "About %s"
-msgstr ""
+msgstr "О %s"
 
 #: ../framework/functions/translation.php:74
 #: ../framework/widgets/widget-tabbed.php:33
 #: ../framework/widgets/widget-tabbed.php:147
 msgid "Popular"
-msgstr ""
+msgstr "Популярно"
 
 #: ../framework/functions/translation.php:76
 #: ../framework/widgets/widget-feedburner.php:30
 msgid "Subscribe"
-msgstr ""
+msgstr "Подписаться"
 
 #: ../framework/functions/translation.php:86
 #: ../framework/widgets/widget-feedburner.php:27
 msgid "Enter your e-mail address"
-msgstr ""
+msgstr "Введите ваш адрес эл. почты"
 
 #: ../framework/functions/translation.php:89
 msgid "Pagination"
-msgstr ""
+msgstr "Прокрутка"
 
 #: ../framework/functions/translation.php:94
 #, php-format
 msgid "Page %s"
-msgstr ""
+msgstr "Страница %s"
 
 #: ../framework/functions/translation.php:100
 msgid "Misc"
-msgstr ""
+msgstr "Разное"
 
 #: ../framework/functions/translation.php:104
 #: ../framework/shortcodes/shortcodes.php:100
 msgid "About the author"
-msgstr ""
+msgstr "Об авторе"
 
 #: ../framework/functions/translation.php:107 ../header.php:207
 msgid "Random Article"
-msgstr ""
+msgstr "Случайная статья"
 
 #: ../framework/functions/translation.php:108 ../header.php:212
 msgid "View your shopping cart"
-msgstr ""
+msgstr "Посмотреть корзину"
 
 #: ../framework/parts/share.php:20 ../framework/widgets/widget-facebook.php:12
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: ../framework/parts/share.php:26
 msgid "Google +"
-msgstr ""
+msgstr "Google +"
 
 #: ../framework/parts/share.php:29
 msgid "Stumbleupon"
-msgstr ""
+msgstr "Stumbleupon"
 
 #: ../framework/parts/share.php:32
 msgid "LinkedIn"
-msgstr ""
+msgstr "LinkedIn"
 
 #: ../framework/parts/share.php:35
 msgid "Pinterest"
-msgstr ""
+msgstr "Pinterest"
 
 #: ../framework/widgets.php:13
 msgid "Primary Widget Area"
-msgstr ""
+msgstr "Основная область виджетов"
 
 #: ../framework/widgets.php:15
 msgid "The Primary widget area"
-msgstr ""
+msgstr "Основная область виджетов"
 
 #: ../framework/widgets.php:23
 msgid "This widget area uses in the WooCommerce pages ."
-msgstr ""
+msgstr "Этот виджет использует для WooCommerce страниц."
 
 #: ../framework/widgets.php:51
 msgid "First Footer Widget Area"
-msgstr ""
+msgstr "Первая колонка виджетов нижнего меню"
 
 #: ../framework/widgets.php:53
 msgid "The first footer widget area"
-msgstr ""
+msgstr "Первая колонка виджетов нижнего меню"
 
 #: ../framework/widgets.php:59
 msgid "Second Footer Widget Area"
-msgstr ""
+msgstr "Вторая колонка виджетов нижнего меню"
 
 #: ../framework/widgets.php:61
 msgid "The Second footer widget area"
-msgstr ""
+msgstr "Вторая колонка виджетов нижнего меню"
 
 #: ../framework/widgets.php:68
 msgid "Third Footer Widget Area"
-msgstr ""
+msgstr "Трития колонка виджетов нижнего меню"
 
 #: ../framework/widgets.php:70
 msgid "The Third footer widget area"
-msgstr ""
+msgstr "Третья колонка виджетов нижнего меню"
 
 #: ../framework/widgets.php:77
 msgid "Fourth Footer Widget Area"
-msgstr ""
+msgstr "Четвёртая колонка виджетов нижнего меню"
 
 #: ../framework/widgets.php:79
 msgid "The Fourth footer widget area"
-msgstr ""
+msgstr "Четвёртая колонка виджетов нижнего меню"
 
 #: ../framework/widgets/widget-ads.php:12
 msgid "Ads 125*125"
-msgstr ""
+msgstr "Объявления 125 * 125"
 
 #: ../framework/widgets/widget-ads.php:78
 #: ../framework/widgets/widget-ads.php:198
@@ -4596,7 +4601,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1006
 #: ../framework/widgets/widget-ads.php:1118
 msgid " Advertisement"
-msgstr ""
+msgstr "Реклама"
 
 #: ../framework/widgets/widget-ads.php:86
 #: ../framework/widgets/widget-ads.php:206
@@ -4612,7 +4617,7 @@ msgstr ""
 #: ../framework/widgets/widget-social.php:61
 #: ../framework/widgets/widget-text-html.php:70
 msgid "Content Only:"
-msgstr ""
+msgstr "Показывать только содержимое:"
 
 #: ../framework/widgets/widget-ads.php:88
 #: ../framework/widgets/widget-ads.php:208
@@ -4627,7 +4632,7 @@ msgstr ""
 #: ../framework/widgets/widget-author-custom.php:67
 #: ../framework/widgets/widget-social.php:63
 msgid "Check this box to hide widget title and background."
-msgstr ""
+msgstr "Установите этот флажок, чтобы скрыть название и фон виджета."
 
 #: ../framework/widgets/widget-ads.php:91
 #: ../framework/widgets/widget-ads.php:211
@@ -4640,7 +4645,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1019
 #: ../framework/widgets/widget-ads.php:1131
 msgid "Open links in a new window:"
-msgstr ""
+msgstr "Открывать ссылки в новом окне"
 
 #: ../framework/widgets/widget-ads.php:95
 #: ../framework/widgets/widget-ads.php:215
@@ -4653,7 +4658,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1023
 #: ../framework/widgets/widget-ads.php:1135
 msgid "Nofollow:"
-msgstr ""
+msgstr "Nofollow"
 
 #: ../framework/widgets/widget-ads.php:99
 #: ../framework/widgets/widget-ads.php:219
@@ -4661,7 +4666,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:462
 #: ../framework/widgets/widget-ads.php:583
 msgid "One column:"
-msgstr ""
+msgstr "Одна колонка:"
 
 #: ../framework/widgets/widget-ads.php:104
 #: ../framework/widgets/widget-ads.php:224
@@ -4670,7 +4675,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:588
 #: ../framework/widgets/widget-ads.php:1028
 msgid "ADS"
-msgstr ""
+msgstr "ОБЪЯВЛЕНИЯ"
 
 #: ../framework/widgets/widget-ads.php:106
 #: ../framework/widgets/widget-ads.php:226
@@ -4680,7 +4685,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1030
 #, php-format
 msgid "Ads %s image path:"
-msgstr ""
+msgstr "Путь к изображению рекламного блока %s:"
 
 #: ../framework/widgets/widget-ads.php:110
 #: ../framework/widgets/widget-ads.php:230
@@ -4690,7 +4695,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1034
 #, php-format
 msgid "Ads %s Link:"
-msgstr ""
+msgstr "Ссылка объявления %s :"
 
 #: ../framework/widgets/widget-ads.php:114
 #: ../framework/widgets/widget-ads.php:234
@@ -4700,549 +4705,549 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1038
 #, php-format
 msgid "Ads %s Adsense code:"
-msgstr ""
+msgstr "Adsense код объявления %s:"
 
 #: ../framework/widgets/widget-ads.php:133
 msgid "Ads 120*90"
-msgstr ""
+msgstr "Объявления 120 * 90"
 
 #: ../framework/widgets/widget-ads.php:254
 msgid "Ads 120*60"
-msgstr ""
+msgstr "Объявления 120 * 60"
 
 #: ../framework/widgets/widget-ads.php:376
 msgid "Ads 120*600"
-msgstr ""
+msgstr "Объявления 120 * 600"
 
 #: ../framework/widgets/widget-ads.php:497
 msgid "Ads 120*240"
-msgstr ""
+msgstr "Объявления 120 * 240"
 
 #: ../framework/widgets/widget-ads.php:617
 msgid "Ads 160*600"
-msgstr ""
+msgstr "Объявления 160 * 600"
 
 #: ../framework/widgets/widget-ads.php:698
 #: ../framework/widgets/widget-ads.php:806
 #: ../framework/widgets/widget-ads.php:915
 #: ../framework/widgets/widget-ads.php:1139
 msgid "ADS:"
-msgstr ""
+msgstr "ОБЪЯВЛЕНИЯ:"
 
 #: ../framework/widgets/widget-ads.php:700
 #: ../framework/widgets/widget-ads.php:808
 #: ../framework/widgets/widget-ads.php:917
 #: ../framework/widgets/widget-ads.php:1141
 msgid "Ads image path:"
-msgstr ""
+msgstr "Путь к картинке объявления:"
 
 #: ../framework/widgets/widget-ads.php:704
 #: ../framework/widgets/widget-ads.php:812
 #: ../framework/widgets/widget-ads.php:921
 #: ../framework/widgets/widget-ads.php:1145
 msgid "Ads Link:"
-msgstr ""
+msgstr "Ссылка объявления :"
 
 #: ../framework/widgets/widget-ads.php:708
 #: ../framework/widgets/widget-ads.php:816
 #: ../framework/widgets/widget-ads.php:925
 #: ../framework/widgets/widget-ads.php:1149
 msgid " Ads Adsense code:"
-msgstr ""
+msgstr "Adsense код объявления:"
 
 #: ../framework/widgets/widget-ads.php:725
 msgid "Ads 300*600"
-msgstr ""
+msgstr "Объявления 300 * 600"
 
 #: ../framework/widgets/widget-ads.php:834
 msgid "Ads 250*250"
-msgstr ""
+msgstr "Объявления 250 * 250"
 
 #: ../framework/widgets/widget-ads.php:946
 msgid "Ads 300*100"
-msgstr ""
+msgstr "Объявления 300 * 100"
 
 #: ../framework/widgets/widget-ads.php:1058
 msgid "Ads 300*250"
-msgstr ""
+msgstr "Объявления 300 * 250"
 
 #: ../framework/widgets/widget-author-custom.php:11
 msgid "Custom Author Content"
-msgstr ""
+msgstr "Пользовательский контент Автора"
 
 #: ../framework/widgets/widget-author-custom.php:57
 #: ../framework/widgets/widget-author.php:46
 #: ../framework/widgets/widget-author.php:123
 msgid "This Widget appears in single post only."
-msgstr ""
+msgstr "Этот виджет появляется только в одиночных новостях."
 
 #: ../framework/widgets/widget-author-custom.php:70
 #: ../framework/widgets/widget-text-html.php:75
 msgid "Center content:"
-msgstr ""
+msgstr "По центру:"
 
 #: ../framework/widgets/widget-author.php:10
 msgid "Post Author"
-msgstr ""
+msgstr "Автор статьи"
 
 #: ../framework/widgets/widget-author.php:49
 msgid "Author's avatar:"
-msgstr ""
+msgstr "Аватарка автора:"
 
 #: ../framework/widgets/widget-author.php:54
 msgid "Social icons:"
-msgstr ""
+msgstr "Иконки социальных сетей:"
 
 #: ../framework/widgets/widget-author.php:73
 msgid "Posts By Post's Author"
-msgstr ""
+msgstr "Сообщения от автора поста"
 
 #: ../framework/widgets/widget-author.php:131
 msgid "Display (All) link:"
-msgstr ""
+msgstr "Показать (Все) ссылки:"
 
 #: ../framework/widgets/widget-authors-posts.php:11
 #: ../framework/widgets/widget-authors-posts.php:44
 msgid "Authors Posts"
-msgstr ""
+msgstr "Авторы записей"
 
 #: ../framework/widgets/widget-category.php:11
 #: ../framework/widgets/widget-category.php:44
 msgid "Category Posts"
-msgstr ""
+msgstr "Рубрика новостей"
 
 #: ../framework/widgets/widget-category.php:73
 msgid "Display Thumbnails :"
-msgstr ""
+msgstr "Показать Миниатюры:"
 
 #: ../framework/widgets/widget-comments-avatar.php:11
 msgid "Recent Comments with avatar"
-msgstr ""
+msgstr "Отображаются последние комментарии с аватарами пользователей."
 
 #: ../framework/widgets/widget-comments-avatar.php:42
 msgid "Recent Comments"
-msgstr ""
+msgstr "Новые комментарии"
 
 #: ../framework/widgets/widget-comments-avatar.php:50
 msgid "Avatar Size:"
-msgstr ""
+msgstr "Размер аватара:"
 
 #: ../framework/widgets/widget-comments-avatar.php:54
 msgid "Number of comments to show:"
-msgstr ""
+msgstr "Количество комментариев для показа:"
 
 #: ../framework/widgets/widget-custom-author.php:11
 msgid "Custom Author Bio"
-msgstr ""
+msgstr "Биография автора"
 
 #: ../framework/widgets/widget-custom-author.php:52
 msgid "About Author"
-msgstr ""
+msgstr "Об авторе"
 
 #: ../framework/widgets/widget-custom-author.php:60
 msgid "Avatar Image URL:"
-msgstr ""
+msgstr "URL изображения автора:"
 
 #: ../framework/widgets/widget-custom-author.php:64
 msgid "About:"
-msgstr ""
+msgstr "Информация:"
 
 #: ../framework/widgets/widget-facebook.php:45
 msgid "Find us on Facebook"
-msgstr ""
+msgstr "Ищите нас в Facebook"
 
 #: ../framework/widgets/widget-facebook.php:53
 msgid "Page URL :"
-msgstr ""
+msgstr "URL страницы :"
 
 #: ../framework/widgets/widget-facebook.php:57
 msgid "Dark Skin ?"
-msgstr ""
+msgstr "Темная оболочка (skin) ?"
 
 #: ../framework/widgets/widget-feedburner.php:11
 msgid "Feedburner"
-msgstr ""
+msgstr "FeedBurner"
 
 #: ../framework/widgets/widget-feedburner.php:51
 msgid "FeedBurner Widget"
-msgstr ""
+msgstr "﻿FeedBurner Виджет"
 
 #: ../framework/widgets/widget-feedburner.php:51
 msgid "Subscribe to our email newsletter."
-msgstr ""
+msgstr "Подпишитесь на нашу рассылку."
 
 #: ../framework/widgets/widget-feedburner.php:59
 msgid "Text above Email Input Field:"
-msgstr ""
+msgstr "Текст выше поля ввода Email:"
 
 #: ../framework/widgets/widget-feedburner.php:59
 msgid "( Supports : Html & Shortcodes )"
-msgstr ""
+msgstr "(Поддерживает: HTML & Shortcodes)"
 
 #: ../framework/widgets/widget-feedburner.php:63
 msgid "Feedburner ID:"
-msgstr ""
+msgstr "Feedburner ID:"
 
 #: ../framework/widgets/widget-flickr.php:53
 msgid "Flickr ID:"
-msgstr ""
+msgstr "Flickr ID:"
 
 #: ../framework/widgets/widget-flickr.php:55
 msgid "Find Your ID at"
-msgstr ""
+msgstr "Найти свой идентификатор в"
 
 #: ../framework/widgets/widget-flickr.php:58
 msgid "Number of photos to show:"
-msgstr ""
+msgstr "Количество фотографий для показа"
 
 #: ../framework/widgets/widget-flickr.php:62
 msgid "Photos Order:"
-msgstr ""
+msgstr "Порядок фотографий:"
 
 #: ../framework/widgets/widget-flickr.php:64
 #: ../framework/widgets/widget-news-pic.php:75
 #: ../framework/widgets/widget-posts.php:72
 msgid "Most recent"
-msgstr ""
+msgstr "Самые последние"
 
 #: ../framework/widgets/widget-google.php:12
 msgid "Google+ page"
-msgstr ""
+msgstr "URL страница Google+"
 
 #: ../framework/widgets/widget-google.php:53
 msgid "Follow us on Google+"
-msgstr ""
+msgstr "Следите за нами на Google+"
 
 #: ../framework/widgets/widget-google.php:61
 msgid "Page URL:"
-msgstr ""
+msgstr "URL страницы:"
 
 #: ../framework/widgets/widget-login.php:11
 #: ../framework/widgets/widget-login.php:35
 msgid "Login"
-msgstr ""
+msgstr "Войти"
 
 #: ../framework/widgets/widget-news-pic.php:11
 #: ../framework/widgets/widget-news-pic.php:44
 msgid "News in Pictures"
-msgstr ""
+msgstr "Новости в картинках"
 
 #: ../framework/widgets/widget-news-pic.php:73
 msgid "Posts order:"
-msgstr ""
+msgstr "Порядок новостей:"
 
 #: ../framework/widgets/widget-posts.php:11
 msgid "Posts list"
-msgstr ""
+msgstr "Список новостей"
 
 #: ../framework/widgets/widget-posts.php:70
 msgid "Posts order"
-msgstr ""
+msgstr "Порядок новостей"
 
 #: ../framework/widgets/widget-posts.php:74
 msgid "Popular / Comments"
-msgstr ""
+msgstr "Популярные / Комментарии"
 
 #: ../framework/widgets/widget-posts.php:76
 msgid "Popular / Views"
-msgstr ""
+msgstr "Популярные / Просмотры"
 
 #: ../framework/widgets/widget-posts.php:78
 msgid "Best Reviews"
-msgstr ""
+msgstr "Лучшие обзоры"
 
 #: ../framework/widgets/widget-posts.php:82
 msgid "Display Thumbnails:"
-msgstr ""
+msgstr "Показать Миниатюры:"
 
 #: ../framework/widgets/widget-slider.php:147
 msgid "Custom Slider:"
-msgstr ""
+msgstr "Пользовательский слайдер:"
 
 #: ../framework/widgets/widget-slider.php:156
 msgid "Add Custom sliders first ."
-msgstr ""
+msgstr "Добавить пользовательские слайдеры в первую очередь."
 
 #: ../framework/widgets/widget-social.php:52
 msgid "Social"
-msgstr ""
+msgstr "Социалки"
 
 #: ../framework/widgets/widget-social.php:66
 msgid "Open links in a new tab:"
-msgstr ""
+msgstr "Открывать ссылки в новом окне"
 
 #: ../framework/widgets/widget-social.php:70
 msgid "Gray icons without background"
-msgstr ""
+msgstr "Серые иконки без фона"
 
 #: ../framework/widgets/widget-soundcloud.php:52
 msgid "URL:"
-msgstr ""
+msgstr "URL:"
 
 #: ../framework/widgets/widget-tabbed.php:132
 #: ../framework/widgets/widget-text-html.php:72
 msgid "Order of tabs:"
-msgstr ""
+msgstr "Порядок вкладок:"
 
 #: ../framework/widgets/widget-tabbed.php:133
 msgid "click Save button to be able to change the order of tabs ."
-msgstr ""
+msgstr "нажмите кнопку Сохранить, чтобы изменить порядок вкладок."
 
 #: ../framework/widgets/widget-tabbed.php:164
 msgid "Number of items to show :"
-msgstr ""
+msgstr "Количество элементов для показа : "
 
 #: ../framework/widgets/widget-tabbed.php:168
 msgid "Popular order :"
-msgstr ""
+msgstr "Популярный заказ:"
 
 #: ../framework/widgets/widget-tabbed.php:170
 msgid "Most Commented"
-msgstr ""
+msgstr "Наиболее комментируемые"
 
 #: ../framework/widgets/widget-tabbed.php:171
 msgid "Most Viewed"
-msgstr ""
+msgstr "Наиболее просматриваемые"
 
 #: ../framework/widgets/widget-text-html.php:72
 msgid "Check this box to hide widget title and background ."
-msgstr ""
+msgstr "Установите этот флажок, чтобы скрыть название и фон виджета."
 
 #: ../framework/widgets/widget-text-html.php:79
 msgid "Text , Shortcodes or HTML code:"
-msgstr ""
+msgstr "Текст, Shortcodes или HTML-код:"
 
 #: ../framework/widgets/widget-timeline.php:11
 #: ../framework/widgets/widget-timeline.php:44
 msgid "Timeline"
-msgstr ""
+msgstr "Хронология"
 
 #: ../framework/widgets/widget-timeline.php:65
 msgid "Category :"
-msgstr ""
+msgstr "Рубрика :"
 
 #: ../framework/widgets/widget-twitter.php:159
 msgid "@Follow Me"
-msgstr ""
+msgstr "@Отслеживай меня"
 
 #: ../framework/widgets/widget-twitter.php:169
 msgid "Twitter Username:"
-msgstr ""
+msgstr "Имя пользователя для Twitter:"
 
 #: ../framework/widgets/widget-twitter.php:173
 msgid "Consumer key:"
-msgstr ""
+msgstr "Пользовательский ключ:"
 
 #: ../framework/widgets/widget-twitter.php:176
 msgid "Consumer secret:"
-msgstr ""
+msgstr "Пользовательский секретный ключ:"
 
 #: ../framework/widgets/widget-twitter.php:180
 msgid "Number of Tweets to show:"
-msgstr ""
+msgstr "Количество твитов, для показа:"
 
 #: ../framework/widgets/widget-video.php:71
 msgid "Featured Video"
-msgstr ""
+msgstr "Рекомендуемое видео"
 
 #: ../framework/widgets/widget-video.php:83
 msgid "Video URL"
-msgstr ""
+msgstr "Url видео"
 
 #: ../framework/widgets/widget-weather.php:15
 #: ../framework/widgets/widget-weather.php:272
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: ../framework/widgets/widget-weather.php:15
 #: ../framework/widgets/widget-weather.php:271
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #: ../framework/widgets/widget-weather.php:117
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: ../framework/widgets/widget-weather.php:118
 msgid "NNE"
-msgstr ""
+msgstr "NNE"
 
 #: ../framework/widgets/widget-weather.php:119
 msgid "NE"
-msgstr ""
+msgstr "NE"
 
 #: ../framework/widgets/widget-weather.php:120
 msgid "ENE"
-msgstr ""
+msgstr "ENE"
 
 #: ../framework/widgets/widget-weather.php:121
 msgid "E"
-msgstr ""
+msgstr "E"
 
 #: ../framework/widgets/widget-weather.php:122
 msgid "ESE"
-msgstr ""
+msgstr "ESE"
 
 #: ../framework/widgets/widget-weather.php:123
 msgid "SE"
-msgstr ""
+msgstr "SE"
 
 #: ../framework/widgets/widget-weather.php:124
 msgid "SSE"
-msgstr ""
+msgstr "SSE"
 
 #: ../framework/widgets/widget-weather.php:125
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: ../framework/widgets/widget-weather.php:126
 msgid "SSW"
-msgstr ""
+msgstr "SSW"
 
 #: ../framework/widgets/widget-weather.php:127
 msgid "SW"
-msgstr ""
+msgstr "SW"
 
 #: ../framework/widgets/widget-weather.php:128
 msgid "WSW"
-msgstr ""
+msgstr "WSW"
 
 #: ../framework/widgets/widget-weather.php:129
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #: ../framework/widgets/widget-weather.php:130
 msgid "WNW"
-msgstr ""
+msgstr "WNW"
 
 #: ../framework/widgets/widget-weather.php:131
 msgid "NW"
-msgstr ""
+msgstr "NW"
 
 #: ../framework/widgets/widget-weather.php:132
 msgid "NNW"
-msgstr ""
+msgstr "NNW"
 
 #: ../framework/widgets/widget-weather.php:163
 msgid "km/h"
-msgstr ""
+msgstr "км/ч"
 
 #: ../framework/widgets/widget-weather.php:163
 msgid "mph"
-msgstr ""
+msgstr "миль/ч"
 
 #: ../framework/widgets/widget-weather.php:170
 msgid "humidity:"
-msgstr ""
+msgstr "Влажность:"
 
 #: ../framework/widgets/widget-weather.php:171
 msgid "wind:"
-msgstr ""
+msgstr "ветер:"
 
 #: ../framework/widgets/widget-weather.php:172
 msgid "H"
-msgstr ""
+msgstr "H"
 
 #: ../framework/widgets/widget-weather.php:172
 msgid "L"
-msgstr ""
+msgstr "L"
 
 #: ../framework/widgets/widget-weather.php:188
 msgid "Sun"
-msgstr ""
+msgstr "Воскр."
 
 #: ../framework/widgets/widget-weather.php:188
 msgid "Mon"
-msgstr ""
+msgstr "Пн."
 
 #: ../framework/widgets/widget-weather.php:188
 msgid "Tue"
-msgstr ""
+msgstr "Вт."
 
 #: ../framework/widgets/widget-weather.php:188
 msgid "Wed"
-msgstr ""
+msgstr "Ср."
 
 #: ../framework/widgets/widget-weather.php:188
 msgid "Thu"
-msgstr ""
+msgstr "Чт."
 
 #: ../framework/widgets/widget-weather.php:188
 msgid "Fri"
-msgstr ""
+msgstr "Пт."
 
 #: ../framework/widgets/widget-weather.php:188
 msgid "Sat"
-msgstr ""
+msgstr "Суб."
 
 #: ../framework/widgets/widget-weather.php:213
 msgid "No weather information available"
-msgstr ""
+msgstr "Нет информации о погоде"
 
 #: ../framework/widgets/widget-weather.php:222
 msgid "Weather"
-msgstr ""
+msgstr "Погода"
 
 #: ../framework/widgets/widget-weather.php:263
 msgid "Location:"
-msgstr ""
+msgstr "Местоположение:"
 
 #: ../framework/widgets/widget-weather.php:263
 msgid "Find Your Location"
-msgstr ""
+msgstr "Определить ваше местоположение"
 
 #: ../framework/widgets/widget-weather.php:264
 msgid "(i.e: London,UK or New York City,NY)"
-msgstr ""
+msgstr "(То есть: Лондон, Великобритания или Нью-Йорк, Нью-Йорк)"
 
 #: ../framework/widgets/widget-weather.php:270
 msgid "Units:"
-msgstr ""
+msgstr "Единицы:"
 
 #: ../framework/widgets/widget-weather.php:277
 msgid "Forecast:"
-msgstr ""
+msgstr "Прогноз:"
 
 #: ../framework/widgets/widget-weather.php:279
 msgid "5 Days"
-msgstr ""
+msgstr "5 суток"
 
 #: ../framework/widgets/widget-weather.php:280
 msgid "4 Days"
-msgstr ""
+msgstr "4 дня"
 
 #: ../framework/widgets/widget-weather.php:281
 msgid "3 Days"
-msgstr ""
+msgstr "3 дня"
 
 #: ../framework/widgets/widget-weather.php:282
 msgid "2 Days"
-msgstr ""
+msgstr "2 дня"
 
 #: ../framework/widgets/widget-weather.php:283
 msgid "1 Day"
-msgstr ""
+msgstr "1 день"
 
 #: ../framework/widgets/widget-weather.php:284
 msgid "Don't Show"
-msgstr ""
+msgstr "Не показывать"
 
 #: ../framework/widgets/widget-youtube.php:12
 msgid "YouTube Channel"
-msgstr ""
+msgstr "Канал YouTube"
 
 #: ../framework/widgets/widget-youtube.php:41
 msgid "Subscribe to our Channel"
-msgstr ""
+msgstr "Подпишитесь на наш канал"
 
 #: ../framework/widgets/widget-youtube.php:49
 msgid "Channel Name:"
-msgstr ""
+msgstr "Название канала:"
 
 #: ../search.php:11
 msgid "Nothing Found"
-msgstr ""
+msgstr "Ничего не найдено"
 
 #: ../single.php:81
 msgid "Tags "
-msgstr ""
+msgstr "Метки"
