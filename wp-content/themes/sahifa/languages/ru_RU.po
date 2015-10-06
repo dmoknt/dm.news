@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sahifa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-22 15:33+0200\n"
-"PO-Revision-Date: 2015-10-02 19:03+0300\n"
+"POT-Creation-Date: 2015-10-05 14:36+0300\n"
+"PO-Revision-Date: 2015-10-06 09:41+0300\n"
 "Last-Translator: Fouad Badawy <support@tielabs.com>\n"
 "Language-Team: Tielabs <info@tielabs.com>\n"
 "Language: ru\n"
@@ -187,8 +187,8 @@ msgstr "Обновить"
 #: ../framework/admin/framework-builder.php:403
 #: ../framework/widgets/widget-authors-posts.php:65
 #: ../framework/widgets/widget-category.php:65
-#: ../framework/widgets/widget-news-pic.php:65
-#: ../framework/widgets/widget-slider.php:138
+#: ../framework/widgets/widget-news-pic.php:62
+#: ../framework/widgets/widget-slider.php:137
 msgid "Category:"
 msgstr "Категория:"
 
@@ -201,13 +201,13 @@ msgstr "Очередность записей:"
 #: ../framework/admin/framework-builder.php:244
 #: ../framework/admin/framework-builder.php:270
 #: ../framework/admin/framework-builder.php:366
-#: ../framework/widgets/widget-author.php:126
+#: ../framework/widgets/widget-author.php:124
 #: ../framework/widgets/widget-authors-posts.php:60
 #: ../framework/widgets/widget-category.php:60
-#: ../framework/widgets/widget-news-pic.php:60
+#: ../framework/widgets/widget-news-pic.php:57
 #: ../framework/widgets/widget-posts.php:66
-#: ../framework/widgets/widget-slider.php:133
-#: ../framework/widgets/widget-timeline.php:60
+#: ../framework/widgets/widget-slider.php:132
+#: ../framework/widgets/widget-timeline.php:58
 msgid "Number of posts to show:"
 msgstr "Количество записей для показа:"
 
@@ -256,19 +256,19 @@ msgstr "Исключить эти рубрики:"
 #: ../framework/widgets/widget-authors-posts.php:56
 #: ../framework/widgets/widget-category.php:56
 #: ../framework/widgets/widget-comments-avatar.php:46
-#: ../framework/widgets/widget-custom-author.php:56
+#: ../framework/widgets/widget-custom-author.php:59
 #: ../framework/widgets/widget-facebook.php:49
 #: ../framework/widgets/widget-feedburner.php:55
 #: ../framework/widgets/widget-flickr.php:49
 #: ../framework/widgets/widget-google.php:57
 #: ../framework/widgets/widget-login.php:39
-#: ../framework/widgets/widget-news-pic.php:56
+#: ../framework/widgets/widget-news-pic.php:53
 #: ../framework/widgets/widget-posts.php:62
-#: ../framework/widgets/widget-social.php:56
+#: ../framework/widgets/widget-social.php:59
 #: ../framework/widgets/widget-soundcloud.php:48
-#: ../framework/widgets/widget-text-html.php:65
-#: ../framework/widgets/widget-timeline.php:56
-#: ../framework/widgets/widget-twitter.php:164
+#: ../framework/widgets/widget-text-html.php:70
+#: ../framework/widgets/widget-timeline.php:54
+#: ../framework/widgets/widget-twitter.php:163
 #: ../framework/widgets/widget-video.php:75
 #: ../framework/widgets/widget-weather.php:257
 #: ../framework/widgets/widget-youtube.php:45
@@ -310,7 +310,7 @@ msgstr "Очередность записей:"
 #: ../framework/admin/framework-admin.php:118
 #: ../framework/admin/framework-builder.php:233
 msgid "Category Block:"
-msgstr "Блок категория:"
+msgstr "Блок рубрики:"
 
 #: ../framework/admin/framework-admin.php:119
 #: ../framework/admin/framework-builder.php:313
@@ -455,14 +455,14 @@ msgstr "Примечание"
 #: ../framework/admin/framework-admin.php:149
 #: ../framework/admin/framework-options.php:187
 #: ../framework/admin/framework-panel.php:1250
-#: ../framework/functions/mega-menus.php:390
+#: ../framework/functions/mega-menus.php:393
 msgid "Right"
 msgstr "Справа"
 
 #: ../framework/admin/framework-admin.php:150
 #: ../framework/admin/framework-options.php:186
 #: ../framework/admin/framework-panel.php:1251
-#: ../framework/functions/mega-menus.php:391
+#: ../framework/functions/mega-menus.php:394
 msgid "Left"
 msgstr "Слева"
 
@@ -471,8 +471,8 @@ msgstr "Слева"
 #: ../framework/admin/framework-category.php:163
 #: ../framework/admin/framework-options.php:188
 #: ../framework/admin/framework-options.php:195
-#: ../framework/functions/mega-menus.php:389
-#: ../framework/functions/mega-menus.php:395
+#: ../framework/functions/mega-menus.php:392
+#: ../framework/functions/mega-menus.php:398
 msgid "Center"
 msgstr "По центру"
 
@@ -561,7 +561,7 @@ msgid "Icon (use full Font Awesome name):"
 msgstr "Иконка Mega Menu (Используйте полное имя font awesome)"
 
 #: ../framework/admin/framework-admin.php:173
-#: ../framework/functions/mega-menus.php:638
+#: ../framework/functions/mega-menus.php:641
 msgid "Open link in a new window/tab"
 msgstr "Открыть ссылку в новом окне/вкладке"
 
@@ -676,7 +676,7 @@ msgstr "Последнее"
 
 #: ../framework/admin/framework-admin.php:200
 #: ../framework/widgets/widget-flickr.php:65
-#: ../framework/widgets/widget-news-pic.php:76
+#: ../framework/widgets/widget-news-pic.php:73
 #: ../framework/widgets/widget-posts.php:73
 msgid "Random"
 msgstr "Случайный"
@@ -1294,8 +1294,8 @@ msgid "Shop - For WooCommerce Pages"
 msgstr "Магазин - для WooCommerce страниц"
 
 #: ../framework/admin/framework-category.php:50
-#: ../framework/functions/mega-menus.php:360
-#: ../framework/widgets/widget-slider.php:150
+#: ../framework/functions/mega-menus.php:363
+#: ../framework/widgets/widget-slider.php:149
 msgid "Disable"
 msgstr "Отключено"
 
@@ -1583,22 +1583,22 @@ msgid "Upload"
 msgstr "Загрузить"
 
 #: ../framework/admin/framework-options.php:172
-#: ../framework/functions/mega-menus.php:402
+#: ../framework/functions/mega-menus.php:405
 msgid "repeat"
 msgstr "повтор"
 
 #: ../framework/admin/framework-options.php:173
-#: ../framework/functions/mega-menus.php:401
+#: ../framework/functions/mega-menus.php:404
 msgid "no-repeat"
 msgstr "без повтора"
 
 #: ../framework/admin/framework-options.php:174
-#: ../framework/functions/mega-menus.php:403
+#: ../framework/functions/mega-menus.php:406
 msgid "repeat-x"
 msgstr "повтор-х"
 
 #: ../framework/admin/framework-options.php:175
-#: ../framework/functions/mega-menus.php:404
+#: ../framework/functions/mega-menus.php:407
 msgid "repeat-y"
 msgstr "повтор-у"
 
@@ -1611,12 +1611,12 @@ msgid "Scroll"
 msgstr "Прокрутка"
 
 #: ../framework/admin/framework-options.php:193
-#: ../framework/functions/mega-menus.php:396
+#: ../framework/functions/mega-menus.php:399
 msgid "Top"
-msgstr "Лучшие"
+msgstr "Сверху"
 
 #: ../framework/admin/framework-options.php:194
-#: ../framework/functions/mega-menus.php:397
+#: ../framework/functions/mega-menus.php:400
 msgid "Bottom"
 msgstr "Снизу"
 
@@ -1645,8 +1645,8 @@ msgid "Theme Settings"
 msgstr "Настройки темы"
 
 #: ../framework/admin/framework-panel.php:68
-#: ../framework/admin/inc/importer/tie-importer.php:191
-#: ../framework/admin/inc/importer/tie-importer.php:204
+#: ../framework/admin/inc/importer/tie-importer.php:192
+#: ../framework/admin/inc/importer/tie-importer.php:205
 msgid "Import Demo Data"
 msgstr "Импорт демо-данных"
 
@@ -2051,7 +2051,7 @@ msgid "Breaking News Custom Text"
 msgstr "Главные новости - Пользовательский текст"
 
 #: ../framework/admin/framework-panel.php:636
-#: ../framework/widgets/widget-text-html.php:61
+#: ../framework/widgets/widget-text-html.php:66
 msgid "Text"
 msgstr "Текст"
 
@@ -2252,7 +2252,7 @@ msgstr "Иконка Mega Menu (Используйте полное имя font 
 #: ../framework/admin/framework-panel.php:987
 #: ../framework/admin/framework-panel.php:1012
 #: ../framework/admin/framework-panel.php:1037
-#: ../framework/functions/mega-menus.php:618
+#: ../framework/functions/mega-menus.php:621
 msgid "URL"
 msgstr "URL"
 
@@ -3221,7 +3221,7 @@ msgid ""
 msgstr ""
 "Не определяется WXR файл, отсутствует/недействительный номер версии WXR"
 
-#: ../framework/admin/inc/importer/tie-importer.php:193
+#: ../framework/admin/inc/importer/tie-importer.php:194
 msgid ""
 "Importing demo data (post, pages, images, theme settings, ...) is the "
 "easiest way to setup your theme. It will allow you to quickly edit "
@@ -3232,7 +3232,7 @@ msgstr ""
 "простой способ настроить шаблон. Это позволит\\n быстро во всем разобраться "
 "и подредактировать для себя. При импорте произойдет следующее:"
 
-#: ../framework/admin/inc/importer/tie-importer.php:196
+#: ../framework/admin/inc/importer/tie-importer.php:197
 msgid ""
 "No existing posts, pages, categories, images, custom post types or any other "
 "data will be deleted or modified."
@@ -3240,7 +3240,7 @@ msgstr ""
 "Не существующие посты, страницы, категории, изображения, пользовательских "
 "типов посты или любые другие данные будут удалены или изменены."
 
-#: ../framework/admin/inc/importer/tie-importer.php:197
+#: ../framework/admin/inc/importer/tie-importer.php:198
 msgid ""
 "About 10 posts, a few pages, 10+ images, some widgets and two menus will get "
 "imported."
@@ -3248,7 +3248,7 @@ msgstr ""
 "Около 10 сообщений, несколько страниц, 10  изображения, некоторые виджеты и "
 "два меню будет импортироваться."
 
-#: ../framework/admin/inc/importer/tie-importer.php:198
+#: ../framework/admin/inc/importer/tie-importer.php:199
 msgid ""
 "Images will be downloaded from our server, these images are copyrighted and "
 "are for demo use only."
@@ -3256,14 +3256,14 @@ msgstr ""
 "Изображения будут загружены с нашего сервера, эти изображения защищены "
 "авторским правом и предназначены только для демо."
 
-#: ../framework/admin/inc/importer/tie-importer.php:199
+#: ../framework/admin/inc/importer/tie-importer.php:200
 msgid ""
 "Please click import only once and wait, it can take a couple of minutes."
 msgstr ""
 "Пожалуйста, нажмите импорт только один раз и подождите, это может занять "
 "несколько минут."
 
-#: ../framework/admin/inc/importer/tie-importer.php:235
+#: ../framework/admin/inc/importer/tie-importer.php:236
 msgid ""
 "The XML file containing the dummy content is not available or could not be "
 "read .. You might want to try to set the file permission to chmod 755.<br/"
@@ -3665,53 +3665,53 @@ msgstr "Аудитория"
 msgid "Subscribers"
 msgstr "Подписчики"
 
-#: ../framework/functions/arqam-lite.php:760
+#: ../framework/functions/arqam-lite.php:758
 msgid "Style :"
 msgstr "Стиль:"
 
-#: ../framework/functions/arqam-lite.php:762
+#: ../framework/functions/arqam-lite.php:760
 msgid "Gray Icons"
 msgstr "Серые иконки"
 
-#: ../framework/functions/arqam-lite.php:763
+#: ../framework/functions/arqam-lite.php:761
 msgid "Colored Icons"
 msgstr "Цветные иконки"
 
-#: ../framework/functions/arqam-lite.php:764
+#: ../framework/functions/arqam-lite.php:762
 msgid "Colored border Icons"
 msgstr "Иконки с цветным бордюром"
 
-#: ../framework/functions/arqam-lite.php:875
-#: ../framework/functions/arqam-lite.php:882
+#: ../framework/functions/arqam-lite.php:873
+#: ../framework/functions/arqam-lite.php:880
 msgid "FaceBook App info"
 msgstr "Информация FaceBook App"
 
-#: ../framework/functions/arqam-lite.php:887
+#: ../framework/functions/arqam-lite.php:885
 msgid "App ID"
 msgstr "App ID"
 
-#: ../framework/functions/arqam-lite.php:891
+#: ../framework/functions/arqam-lite.php:889
 msgid "App Secret"
 msgstr "Секретный ключ (App Secret)"
 
-#: ../framework/functions/arqam-lite.php:896
-#: ../framework/functions/arqam-lite.php:991
-#: ../framework/functions/arqam-lite.php:1042
-#: ../framework/functions/arqam-lite.php:1071
-#: ../framework/functions/arqam-lite.php:1096
-#: ../framework/functions/arqam-lite.php:1132
-#: ../framework/functions/arqam-lite.php:1153
-#: ../framework/functions/arqam-lite.php:1174
-#: ../framework/functions/arqam-lite.php:1198
-#: ../framework/functions/arqam-lite.php:1222
-#: ../framework/functions/arqam-lite.php:1242
-#: ../framework/functions/arqam-lite.php:1263
-#: ../framework/functions/arqam-lite.php:1290
-#: ../framework/functions/arqam-lite.php:1349
+#: ../framework/functions/arqam-lite.php:894
+#: ../framework/functions/arqam-lite.php:989
+#: ../framework/functions/arqam-lite.php:1040
+#: ../framework/functions/arqam-lite.php:1069
+#: ../framework/functions/arqam-lite.php:1094
+#: ../framework/functions/arqam-lite.php:1130
+#: ../framework/functions/arqam-lite.php:1151
+#: ../framework/functions/arqam-lite.php:1172
+#: ../framework/functions/arqam-lite.php:1196
+#: ../framework/functions/arqam-lite.php:1220
+#: ../framework/functions/arqam-lite.php:1240
+#: ../framework/functions/arqam-lite.php:1261
+#: ../framework/functions/arqam-lite.php:1288
+#: ../framework/functions/arqam-lite.php:1347
 msgid "Need Help?"
 msgstr "Требуется помощь?"
 
-#: ../framework/functions/arqam-lite.php:896
+#: ../framework/functions/arqam-lite.php:894
 #, php-format
 msgid ""
 "Enter Your App ID and App Secret, <a href=\"%s\" target=\"_blank\">Click "
@@ -3720,33 +3720,33 @@ msgstr ""
 "Введите Ваш App ID и App секрет, <a href=\"%s\" target=\"_blank\">Нажмите "
 "здесь</a> для более подробной информации."
 
-#: ../framework/functions/arqam-lite.php:905
-#: ../framework/functions/arqam-lite.php:1000
+#: ../framework/functions/arqam-lite.php:903
+#: ../framework/functions/arqam-lite.php:998
 msgid "Submit"
 msgstr "Отправить"
 
-#: ../framework/functions/arqam-lite.php:964
-#: ../framework/functions/arqam-lite.php:971
+#: ../framework/functions/arqam-lite.php:962
+#: ../framework/functions/arqam-lite.php:969
 msgid "Instagram App info"
 msgstr "Информация Instagram App"
 
-#: ../framework/functions/arqam-lite.php:976
+#: ../framework/functions/arqam-lite.php:974
 msgid "Client ID"
 msgstr "ID Клиентa (Client ID)"
 
-#: ../framework/functions/arqam-lite.php:980
+#: ../framework/functions/arqam-lite.php:978
 msgid "Client Secret"
 msgstr "Секрет клиента (Client Secret)"
 
-#: ../framework/functions/arqam-lite.php:984
+#: ../framework/functions/arqam-lite.php:982
 msgid "Follow The Team"
 msgstr "Следить за командой"
 
-#: ../framework/functions/arqam-lite.php:986
+#: ../framework/functions/arqam-lite.php:984
 msgid "Follow @tielabs and @imo3aser on instagram."
 msgstr "Следить за @tielabs и @imo3aser в instagram."
 
-#: ../framework/functions/arqam-lite.php:991
+#: ../framework/functions/arqam-lite.php:989
 #, php-format
 msgid ""
 "Enter Your App Client ID and App Client Secret, <a href=\"%s\" target="
@@ -3755,53 +3755,53 @@ msgstr ""
 "Введите Ваш App Client ID и App Client Secret, <a href=\"%s\" target=\"_blank"
 "\">Нажмите здесь</a> для более подробной информации."
 
-#: ../framework/functions/arqam-lite.php:1012
+#: ../framework/functions/arqam-lite.php:1010
 msgid "Settings saved."
 msgstr "Настройки сохранены."
 
-#: ../framework/functions/arqam-lite.php:1014
+#: ../framework/functions/arqam-lite.php:1012
 msgid "Arqam Lite Settings"
 msgstr "Настройки Arqam Lite"
 
-#: ../framework/functions/arqam-lite.php:1014
-#: ../framework/functions/arqam-lite.php:1362
+#: ../framework/functions/arqam-lite.php:1012
+#: ../framework/functions/arqam-lite.php:1360
 msgid "Need More?"
 msgstr "Хотите больше?"
 
-#: ../framework/functions/arqam-lite.php:1021
+#: ../framework/functions/arqam-lite.php:1019
 msgid "FaceBook"
 msgstr "FaceBook"
 
-#: ../framework/functions/arqam-lite.php:1026
+#: ../framework/functions/arqam-lite.php:1024
 msgid "Page ID/Name"
 msgstr "ID страницы / Имя"
 
-#: ../framework/functions/arqam-lite.php:1030
-#: ../framework/functions/arqam-lite.php:1058
-#: ../framework/functions/arqam-lite.php:1091
-#: ../framework/functions/arqam-lite.php:1115
-#: ../framework/functions/arqam-lite.php:1148
-#: ../framework/functions/arqam-lite.php:1169
-#: ../framework/functions/arqam-lite.php:1189
-#: ../framework/functions/arqam-lite.php:1213
-#: ../framework/functions/arqam-lite.php:1237
-#: ../framework/functions/arqam-lite.php:1257
-#: ../framework/functions/arqam-lite.php:1278
-#: ../framework/functions/arqam-lite.php:1324
+#: ../framework/functions/arqam-lite.php:1028
+#: ../framework/functions/arqam-lite.php:1056
+#: ../framework/functions/arqam-lite.php:1089
+#: ../framework/functions/arqam-lite.php:1113
+#: ../framework/functions/arqam-lite.php:1146
+#: ../framework/functions/arqam-lite.php:1167
+#: ../framework/functions/arqam-lite.php:1187
+#: ../framework/functions/arqam-lite.php:1211
+#: ../framework/functions/arqam-lite.php:1235
+#: ../framework/functions/arqam-lite.php:1255
+#: ../framework/functions/arqam-lite.php:1276
+#: ../framework/functions/arqam-lite.php:1322
 msgid "Text Below The Number"
 msgstr "Текст под номером"
 
-#: ../framework/functions/arqam-lite.php:1034
-#: ../framework/functions/arqam-lite.php:1282
+#: ../framework/functions/arqam-lite.php:1032
+#: ../framework/functions/arqam-lite.php:1280
 msgid "Access Token Key"
 msgstr "Ключ маркера доступа"
 
-#: ../framework/functions/arqam-lite.php:1037
-#: ../framework/functions/arqam-lite.php:1285
+#: ../framework/functions/arqam-lite.php:1035
+#: ../framework/functions/arqam-lite.php:1283
 msgid "Get Access Token"
 msgstr "Получить ключ доступа"
 
-#: ../framework/functions/arqam-lite.php:1042
+#: ../framework/functions/arqam-lite.php:1040
 #, php-format
 msgid ""
 "Enter Your Facebook Page Name or ID and click on Get Access Token to get "
@@ -3812,30 +3812,30 @@ msgstr ""
 "доступа\" для получения маркера доступа вашего приложения <a href=\"%s\" "
 "target=\"_blank\">Нажмите здесь</a> Для более подробной информации."
 
-#: ../framework/functions/arqam-lite.php:1049 ../framework/parts/share.php:23
+#: ../framework/functions/arqam-lite.php:1047 ../framework/parts/share.php:23
 #: ../framework/widgets/widget-twitter.php:12
 msgid "Twitter"
 msgstr "Twitter"
 
-#: ../framework/functions/arqam-lite.php:1054
-#: ../framework/functions/arqam-lite.php:1165
-#: ../framework/functions/arqam-lite.php:1185
-#: ../framework/functions/arqam-lite.php:1209
-#: ../framework/functions/arqam-lite.php:1233
-#: ../framework/functions/arqam-lite.php:1253
-#: ../framework/functions/arqam-lite.php:1274
+#: ../framework/functions/arqam-lite.php:1052
+#: ../framework/functions/arqam-lite.php:1163
+#: ../framework/functions/arqam-lite.php:1183
+#: ../framework/functions/arqam-lite.php:1207
+#: ../framework/functions/arqam-lite.php:1231
+#: ../framework/functions/arqam-lite.php:1251
+#: ../framework/functions/arqam-lite.php:1272
 msgid "UserName"
 msgstr "Имя пользователя"
 
-#: ../framework/functions/arqam-lite.php:1062
+#: ../framework/functions/arqam-lite.php:1060
 msgid "Consumer key"
 msgstr "Пользовательский ключ"
 
-#: ../framework/functions/arqam-lite.php:1066
+#: ../framework/functions/arqam-lite.php:1064
 msgid "Consumer secret"
 msgstr "Пользовательский секретный ключ"
 
-#: ../framework/functions/arqam-lite.php:1071
+#: ../framework/functions/arqam-lite.php:1069
 #, php-format
 msgid ""
 "Enter Your Twitter Account Username , your APP Consumer key and Consumer "
@@ -3844,19 +3844,19 @@ msgstr ""
 "Введите Ваше имя входа в Twitter, ключ приложения и секрет,  <a href=\"%s\" "
 "target=\"_blank\">Нажмите здесь</a> для более подробной информации."
 
-#: ../framework/functions/arqam-lite.php:1078
+#: ../framework/functions/arqam-lite.php:1076
 msgid "Google+"
 msgstr "Google+"
 
-#: ../framework/functions/arqam-lite.php:1083
+#: ../framework/functions/arqam-lite.php:1081
 msgid "Google+ ID"
 msgstr "Google+ ID"
 
-#: ../framework/functions/arqam-lite.php:1087
+#: ../framework/functions/arqam-lite.php:1085
 msgid "Google API Key"
 msgstr "Google API ключ"
 
-#: ../framework/functions/arqam-lite.php:1096
+#: ../framework/functions/arqam-lite.php:1094
 #, php-format
 msgid ""
 "Enter Your Google+ page or profile ID and Google API Key, <a href=\"%s\" "
@@ -3865,24 +3865,24 @@ msgstr ""
 "Укажите Вашу страницу Google+ или ID профиля и Google API ключ, <a href=\"%s"
 "\" target=\"_blank\">Нажмите здесь</a> для более подробной информации."
 
-#: ../framework/functions/arqam-lite.php:1102
+#: ../framework/functions/arqam-lite.php:1100
 msgid "YouTube"
 msgstr "YouTube"
 
-#: ../framework/functions/arqam-lite.php:1107
+#: ../framework/functions/arqam-lite.php:1105
 msgid "Username or Channel ID"
 msgstr "Логин или ID канала"
 
-#: ../framework/functions/arqam-lite.php:1111
+#: ../framework/functions/arqam-lite.php:1109
 msgid "Youtube API Key"
 msgstr "Youtube API ключ"
 
-#: ../framework/functions/arqam-lite.php:1119
-#: ../framework/functions/arqam-lite.php:1328
+#: ../framework/functions/arqam-lite.php:1117
+#: ../framework/functions/arqam-lite.php:1326
 msgid "Type"
 msgstr "Тип"
 
-#: ../framework/functions/arqam-lite.php:1132
+#: ../framework/functions/arqam-lite.php:1130
 #, php-format
 msgid ""
 "Enter Your Youtube username or Channel ID, API Key and choose User or "
@@ -3893,37 +3893,37 @@ msgstr ""
 "пользователя или канала в меню Тип, <a href=\"%s\" target=\"_blank\">Нажмите "
 "здесь</a> для более подробной информации."
 
-#: ../framework/functions/arqam-lite.php:1139
+#: ../framework/functions/arqam-lite.php:1137
 msgid "Vimeo"
 msgstr "Vimeo"
 
-#: ../framework/functions/arqam-lite.php:1144
+#: ../framework/functions/arqam-lite.php:1142
 msgid "Channel Name"
 msgstr "Имя канала"
 
-#: ../framework/functions/arqam-lite.php:1153
+#: ../framework/functions/arqam-lite.php:1151
 msgid "Enter Your Vimeo Channel Name."
 msgstr "Введите имя Вашего Vimeo канала "
 
-#: ../framework/functions/arqam-lite.php:1160
+#: ../framework/functions/arqam-lite.php:1158
 msgid "Dribbble"
 msgstr "Dribbble"
 
-#: ../framework/functions/arqam-lite.php:1174
+#: ../framework/functions/arqam-lite.php:1172
 msgid "Enter Your Dribbble Account Username."
 msgstr "Введите Ваше имя пользователя Dribbble"
 
-#: ../framework/functions/arqam-lite.php:1180
+#: ../framework/functions/arqam-lite.php:1178
 #: ../framework/widgets/widget-soundcloud.php:11
 msgid "SoundCloud"
 msgstr "SoundCloud"
 
-#: ../framework/functions/arqam-lite.php:1193
-#: ../framework/functions/arqam-lite.php:1217
+#: ../framework/functions/arqam-lite.php:1191
+#: ../framework/functions/arqam-lite.php:1215
 msgid "API Key"
 msgstr "API ключ"
 
-#: ../framework/functions/arqam-lite.php:1198
+#: ../framework/functions/arqam-lite.php:1196
 #, php-format
 msgid ""
 "Enter Your SoundCloud Account Username and the API Key, <a href=\"%s\" "
@@ -3932,11 +3932,11 @@ msgstr ""
 "Введите Ваше имя входа SoundCloud и ключ API, <a href=\"%s\" target=\"_blank"
 "\">Нажмите здесь</a> для более подробной информации."
 
-#: ../framework/functions/arqam-lite.php:1204
+#: ../framework/functions/arqam-lite.php:1202
 msgid "Behance"
 msgstr "Behance"
 
-#: ../framework/functions/arqam-lite.php:1222
+#: ../framework/functions/arqam-lite.php:1220
 #, php-format
 msgid ""
 "Enter Your Behance Account Username and the API Key, <a href=\"%s\" target="
@@ -3945,27 +3945,27 @@ msgstr ""
 "Введите Ваше имя входа Behance и ключ API, <a href=\"%s\" target=\"_blank"
 "\">Нажмите здесь</a> для более подробной информации."
 
-#: ../framework/functions/arqam-lite.php:1228
+#: ../framework/functions/arqam-lite.php:1226
 msgid "Github"
 msgstr "Github"
 
-#: ../framework/functions/arqam-lite.php:1242
+#: ../framework/functions/arqam-lite.php:1240
 msgid "Enter Your Github Account Username."
 msgstr "Введите Ваше имя пользователя Github"
 
-#: ../framework/functions/arqam-lite.php:1248
+#: ../framework/functions/arqam-lite.php:1246
 msgid "Delicious"
 msgstr "Delicious"
 
-#: ../framework/functions/arqam-lite.php:1263
+#: ../framework/functions/arqam-lite.php:1261
 msgid "Enter Your Delicious Account Username."
 msgstr "Введите Ваше имя пользователя Delicious."
 
-#: ../framework/functions/arqam-lite.php:1269
+#: ../framework/functions/arqam-lite.php:1267
 msgid "Instagram"
 msgstr "Instagram"
 
-#: ../framework/functions/arqam-lite.php:1290
+#: ../framework/functions/arqam-lite.php:1288
 #, php-format
 msgid ""
 "Enter Your Instagram Username and click on Get Access Token to get your App "
@@ -3976,23 +3976,23 @@ msgstr ""
 "для получения маркера доступа вашего приложения <a href=\"%s\" target="
 "\"_blank\">Нажмите здесь</a> для более подробной информации."
 
-#: ../framework/functions/arqam-lite.php:1296
+#: ../framework/functions/arqam-lite.php:1294
 msgid "RSS"
 msgstr "RSS"
 
-#: ../framework/functions/arqam-lite.php:1320
+#: ../framework/functions/arqam-lite.php:1318
 msgid "Feed URL"
 msgstr "URL ленты"
 
-#: ../framework/functions/arqam-lite.php:1340
+#: ../framework/functions/arqam-lite.php:1338
 msgid "Feedpress Json file URL"
 msgstr "Url Json файла Feedpress"
 
-#: ../framework/functions/arqam-lite.php:1344
+#: ../framework/functions/arqam-lite.php:1342
 msgid "Number of Subscribers"
 msgstr "Количество подписчиков"
 
-#: ../framework/functions/arqam-lite.php:1349
+#: ../framework/functions/arqam-lite.php:1347
 #, php-format
 msgid ""
 "Enter Your Feed URl and the Feedpress Json file URL or Number of Subscribers "
@@ -4002,48 +4002,48 @@ msgstr ""
 "подписчиков вручную <a href=\"%s\" target=\"_blank\">Нажмите здесь</a> для "
 "более подробной информации."
 
-#: ../framework/functions/arqam-lite.php:1364
+#: ../framework/functions/arqam-lite.php:1362
 msgid ""
 "Purchase the full version of Arqam plugin to get all following features :"
 msgstr ""
 "Купить полную версию плагина Arqam, чтобы получить все следующие "
 "характеристики:"
 
-#: ../framework/functions/arqam-lite.php:1366
+#: ../framework/functions/arqam-lite.php:1364
 msgid "Drag an Drop feature to sort icons as you wish !"
 msgstr "Перетащите нужный элемент для сортировки иконок, так как вы хотите!"
 
-#: ../framework/functions/arqam-lite.php:1367
+#: ../framework/functions/arqam-lite.php:1365
 msgid "Option To set the Cache time to reduce load time and API calls."
 msgstr ""
 "Возможность установить время кэша, чтобы сократить время загрузки и вызовов "
 "API."
 
-#: ../framework/functions/arqam-lite.php:1368
+#: ../framework/functions/arqam-lite.php:1366
 msgid "More Layout options."
 msgstr "Дополнительные параметры макета."
 
-#: ../framework/functions/arqam-lite.php:1369
+#: ../framework/functions/arqam-lite.php:1367
 msgid "More Social Networks:"
 msgstr "Дополнительные социальные сети:"
 
-#: ../framework/functions/arqam-lite.php:1390
+#: ../framework/functions/arqam-lite.php:1388
 msgid "Members Number"
 msgstr "Количество пользователей"
 
-#: ../framework/functions/arqam-lite.php:1391
+#: ../framework/functions/arqam-lite.php:1389
 msgid "Posts Number"
 msgstr "Количество новостей"
 
-#: ../framework/functions/arqam-lite.php:1392
+#: ../framework/functions/arqam-lite.php:1390
 msgid "Comments Number"
 msgstr "Количество комментариев"
 
-#: ../framework/functions/arqam-lite.php:1405
+#: ../framework/functions/arqam-lite.php:1403
 msgid "Save Settings"
 msgstr "Сохранить настройки"
 
-#: ../framework/functions/arqam-lite.php:1410
+#: ../framework/functions/arqam-lite.php:1408
 msgid "Save"
 msgstr "Сохранить"
 
@@ -4079,117 +4079,117 @@ msgstr "Нет результатов"
 msgid "Results Found"
 msgstr "Результатов найдено"
 
-#: ../framework/functions/mega-menus.php:349
+#: ../framework/functions/mega-menus.php:352
 msgid "Menu Icon"
 msgstr "Значок Меню"
 
-#: ../framework/functions/mega-menus.php:358
+#: ../framework/functions/mega-menus.php:361
 msgid "Enable Mega Menu ?"
 msgstr "Включить Мега Меню?"
 
-#: ../framework/functions/mega-menus.php:362
+#: ../framework/functions/mega-menus.php:365
 msgid "Sub Categories + Posts"
 msgstr "Подрубрики + Новости"
 
-#: ../framework/functions/mega-menus.php:363
+#: ../framework/functions/mega-menus.php:366
 msgid "Recent post + Check also"
 msgstr "Свежие новости + Проверьте также"
 
-#: ../framework/functions/mega-menus.php:365
+#: ../framework/functions/mega-menus.php:368
 msgid "Mega Links"
 msgstr "Мега Ссылки"
 
-#: ../framework/functions/mega-menus.php:371
+#: ../framework/functions/mega-menus.php:374
 msgid "Mega Links - Columns"
 msgstr "Mega Ссылки - Столбцы"
 
-#: ../framework/functions/mega-menus.php:384
+#: ../framework/functions/mega-menus.php:387
 msgid "Mega Menu Background Image"
 msgstr "Мега Меню - Фоновое изображение"
 
-#: ../framework/functions/mega-menus.php:410
+#: ../framework/functions/mega-menus.php:413
 msgid "Padding Right"
 msgstr "Внутренний отступ справа"
 
-#: ../framework/functions/mega-menus.php:417
+#: ../framework/functions/mega-menus.php:420
 msgid "Padding left"
 msgstr "Внутр. отступ слева"
 
-#: ../framework/functions/mega-menus.php:424
+#: ../framework/functions/mega-menus.php:427
 msgid "Min Height"
 msgstr "Миним. высота"
 
-#: ../framework/functions/mega-menus.php:560
+#: ../framework/functions/mega-menus.php:563
 #, php-format
 msgid "%s (Invalid)"
 msgstr "%s (неверно)"
 
-#: ../framework/functions/mega-menus.php:564
+#: ../framework/functions/mega-menus.php:567
 #, php-format
 msgid "%s (Pending)"
 msgstr "%s (в ожидании)"
 
-#: ../framework/functions/mega-menus.php:577
+#: ../framework/functions/mega-menus.php:580
 msgid "sub item"
 msgstr "подпункт"
 
-#: ../framework/functions/mega-menus.php:609
+#: ../framework/functions/mega-menus.php:612
 msgid "Edit Menu Item"
 msgstr "Редактировать пункт меню"
 
-#: ../framework/functions/mega-menus.php:625
+#: ../framework/functions/mega-menus.php:628
 msgid "Navigation Label"
 msgstr "Ярлык на копках меню"
 
-#: ../framework/functions/mega-menus.php:631
+#: ../framework/functions/mega-menus.php:634
 msgid "Title Attribute"
 msgstr "Атрибут заголовка"
 
-#: ../framework/functions/mega-menus.php:643
+#: ../framework/functions/mega-menus.php:646
 msgid "CSS Classes (optional)"
 msgstr "CSS Классы (опционально)"
 
-#: ../framework/functions/mega-menus.php:649
+#: ../framework/functions/mega-menus.php:652
 msgid "Link Relationship (XFN)"
 msgstr "Партнерская ссылка  (XFN)"
 
-#: ../framework/functions/mega-menus.php:655
+#: ../framework/functions/mega-menus.php:658
 msgid "Description"
 msgstr "Описание"
 
-#: ../framework/functions/mega-menus.php:657
+#: ../framework/functions/mega-menus.php:660
 msgid ""
 "The description will be displayed in the menu if the current theme supports "
 "it."
 msgstr ""
 "Описание будет отображаться в меню, если текущая тема поддерживает его."
 
-#: ../framework/functions/mega-menus.php:672
+#: ../framework/functions/mega-menus.php:675
 msgid "Move"
 msgstr "Переместить"
 
-#: ../framework/functions/mega-menus.php:673
+#: ../framework/functions/mega-menus.php:676
 msgid "Up one"
 msgstr "Вверх на один"
 
-#: ../framework/functions/mega-menus.php:674
+#: ../framework/functions/mega-menus.php:677
 msgid "Down one"
 msgstr "Вниз на один"
 
-#: ../framework/functions/mega-menus.php:677
+#: ../framework/functions/mega-menus.php:680
 msgid "To the top"
 msgstr "В самый верх"
 
-#: ../framework/functions/mega-menus.php:684
+#: ../framework/functions/mega-menus.php:687
 #, php-format
 msgid "Original: %s"
 msgstr "Оригинал: %s"
 
-#: ../framework/functions/mega-menus.php:697
+#: ../framework/functions/mega-menus.php:700
 msgid "Remove"
 msgstr "Удалить"
 
-#: ../framework/functions/mega-menus.php:698
+#: ../framework/functions/mega-menus.php:701
 msgid "Cancel"
 msgstr "Отменить"
 
@@ -4297,19 +4297,19 @@ msgstr "Забыли ваш пароль?"
 
 #: ../framework/functions/theme-functions.php:1284
 #: ../framework/functions/translation.php:103
-#: ../framework/widgets/widget-twitter.php:108
+#: ../framework/widgets/widget-twitter.php:107
 #, php-format
 msgid "%s ago"
 msgstr "%s тому назад"
 
-#: ../framework/functions/theme-functions.php:1450
+#: ../framework/functions/theme-functions.php:1461
 #: ../framework/functions/translation.php:95
 #, php-format
 msgid "%1$s at %2$s"
 msgstr "﻿%1$s в %2$s"
 
-#: ../framework/functions/theme-functions.php:1450
-#: ../framework/functions/theme-functions.php:1474
+#: ../framework/functions/theme-functions.php:1461
+#: ../framework/functions/theme-functions.php:1485
 #: ../framework/functions/translation.php:51 ../page.php:86 ../single.php:67
 #: ../template-authors.php:56 ../template-best-reviews.php:72
 #: ../template-login.php:34 ../template-restrict.php:42
@@ -4318,47 +4318,47 @@ msgstr "﻿%1$s в %2$s"
 msgid "Edit"
 msgstr "Правка"
 
-#: ../framework/functions/theme-functions.php:1455
+#: ../framework/functions/theme-functions.php:1466
 #: ../framework/functions/translation.php:44
 msgid "Your comment is awaiting moderation."
 msgstr "Ваш комментарий ожидает проверки модератором."
 
-#: ../framework/functions/theme-functions.php:1474
+#: ../framework/functions/theme-functions.php:1485
 #: ../framework/functions/translation.php:45
 msgid "Pingback:"
 msgstr "Уведомление:"
 
-#: ../framework/functions/theme-functions.php:1562
+#: ../framework/functions/theme-functions.php:1573
 msgid "Install Required Plugins"
 msgstr "Установить требуемые плагины"
 
-#: ../framework/functions/theme-functions.php:1563
+#: ../framework/functions/theme-functions.php:1574
 msgid "Install Plugins"
 msgstr "Установить плагины"
 
-#: ../framework/functions/theme-functions.php:1564
+#: ../framework/functions/theme-functions.php:1575
 #, php-format
 msgid "Installing Plugin: %s"
 msgstr "Установка плагина: %s"
 
-#: ../framework/functions/theme-functions.php:1565
+#: ../framework/functions/theme-functions.php:1576
 msgid "Something went wrong with the plugin API."
 msgstr "Что-то пошло не так с API плагина."
 
-#: ../framework/functions/theme-functions.php:1576
+#: ../framework/functions/theme-functions.php:1587
 msgid "Return to Required Plugins Installer"
 msgstr "Вернутся к установке необходимых плагинов"
 
-#: ../framework/functions/theme-functions.php:1577
+#: ../framework/functions/theme-functions.php:1588
 msgid "Plugin activated successfully."
 msgstr "Плагин успешно активирован."
 
-#: ../framework/functions/theme-functions.php:1578
+#: ../framework/functions/theme-functions.php:1589
 #, php-format
 msgid "All plugins installed and activated successfully. %s"
 msgstr "Все плагины установлены и активированы успешно. %s"
 
-#: ../framework/functions/theme-functions.php:1772
+#: ../framework/functions/theme-functions.php:1783
 msgid "Review Overview"
 msgstr "Просмотр обзора"
 
@@ -4464,12 +4464,12 @@ msgid "Widgets"
 msgstr "Виджеты"
 
 #: ../framework/functions/translation.php:71
-#: ../framework/widgets/widget-author.php:98
+#: ../framework/widgets/widget-author.php:96
 msgid "All Posts"
 msgstr "Все Новости"
 
 #: ../framework/functions/translation.php:72
-#: ../framework/widgets/widget-author.php:90
+#: ../framework/widgets/widget-author.php:88
 #, php-format
 msgid "By %s"
 msgstr "От  %s"
@@ -4614,8 +4614,8 @@ msgstr "Реклама"
 #: ../framework/widgets/widget-ads.php:1014
 #: ../framework/widgets/widget-ads.php:1126
 #: ../framework/widgets/widget-author-custom.php:65
-#: ../framework/widgets/widget-social.php:61
-#: ../framework/widgets/widget-text-html.php:70
+#: ../framework/widgets/widget-social.php:64
+#: ../framework/widgets/widget-text-html.php:74
 msgid "Content Only:"
 msgstr "Показывать только содержимое:"
 
@@ -4630,7 +4630,7 @@ msgstr "Показывать только содержимое:"
 #: ../framework/widgets/widget-ads.php:1016
 #: ../framework/widgets/widget-ads.php:1128
 #: ../framework/widgets/widget-author-custom.php:67
-#: ../framework/widgets/widget-social.php:63
+#: ../framework/widgets/widget-social.php:66
 msgid "Check this box to hide widget title and background."
 msgstr "Установите этот флажок, чтобы скрыть название и фон виджета."
 
@@ -4776,13 +4776,13 @@ msgid "Custom Author Content"
 msgstr "Пользовательский контент Автора"
 
 #: ../framework/widgets/widget-author-custom.php:57
-#: ../framework/widgets/widget-author.php:46
-#: ../framework/widgets/widget-author.php:123
+#: ../framework/widgets/widget-author.php:44
+#: ../framework/widgets/widget-author.php:121
 msgid "This Widget appears in single post only."
 msgstr "Этот виджет появляется только в одиночных новостях."
 
 #: ../framework/widgets/widget-author-custom.php:70
-#: ../framework/widgets/widget-text-html.php:75
+#: ../framework/widgets/widget-text-html.php:79
 msgid "Center content:"
 msgstr "По центру:"
 
@@ -4790,19 +4790,19 @@ msgstr "По центру:"
 msgid "Post Author"
 msgstr "Автор статьи"
 
-#: ../framework/widgets/widget-author.php:49
+#: ../framework/widgets/widget-author.php:47
 msgid "Author's avatar:"
 msgstr "Аватарка автора:"
 
-#: ../framework/widgets/widget-author.php:54
+#: ../framework/widgets/widget-author.php:52
 msgid "Social icons:"
 msgstr "Иконки социальных сетей:"
 
-#: ../framework/widgets/widget-author.php:73
+#: ../framework/widgets/widget-author.php:71
 msgid "Posts By Post's Author"
 msgstr "Сообщения от автора поста"
 
-#: ../framework/widgets/widget-author.php:131
+#: ../framework/widgets/widget-author.php:129
 msgid "Display (All) link:"
 msgstr "Показать (Все) ссылки:"
 
@@ -4840,15 +4840,15 @@ msgstr "Количество комментариев для показа:"
 msgid "Custom Author Bio"
 msgstr "Биография автора"
 
-#: ../framework/widgets/widget-custom-author.php:52
+#: ../framework/widgets/widget-custom-author.php:55
 msgid "About Author"
 msgstr "Об авторе"
 
-#: ../framework/widgets/widget-custom-author.php:60
+#: ../framework/widgets/widget-custom-author.php:63
 msgid "Avatar Image URL:"
 msgstr "URL изображения автора:"
 
-#: ../framework/widgets/widget-custom-author.php:64
+#: ../framework/widgets/widget-custom-author.php:67
 msgid "About:"
 msgstr "Информация:"
 
@@ -4905,7 +4905,7 @@ msgid "Photos Order:"
 msgstr "Порядок фотографий:"
 
 #: ../framework/widgets/widget-flickr.php:64
-#: ../framework/widgets/widget-news-pic.php:75
+#: ../framework/widgets/widget-news-pic.php:72
 #: ../framework/widgets/widget-posts.php:72
 msgid "Most recent"
 msgstr "Самые последние"
@@ -4928,11 +4928,11 @@ msgid "Login"
 msgstr "Войти"
 
 #: ../framework/widgets/widget-news-pic.php:11
-#: ../framework/widgets/widget-news-pic.php:44
+#: ../framework/widgets/widget-news-pic.php:42
 msgid "News in Pictures"
 msgstr "Новости в картинках"
 
-#: ../framework/widgets/widget-news-pic.php:73
+#: ../framework/widgets/widget-news-pic.php:70
 msgid "Posts order:"
 msgstr "Порядок новостей:"
 
@@ -4960,23 +4960,23 @@ msgstr "Лучшие обзоры"
 msgid "Display Thumbnails:"
 msgstr "Показать Миниатюры:"
 
-#: ../framework/widgets/widget-slider.php:147
+#: ../framework/widgets/widget-slider.php:146
 msgid "Custom Slider:"
 msgstr "Пользовательский слайдер:"
 
-#: ../framework/widgets/widget-slider.php:156
+#: ../framework/widgets/widget-slider.php:155
 msgid "Add Custom sliders first ."
 msgstr "Добавить пользовательские слайдеры в первую очередь."
 
-#: ../framework/widgets/widget-social.php:52
+#: ../framework/widgets/widget-social.php:55
 msgid "Social"
 msgstr "Социалки"
 
-#: ../framework/widgets/widget-social.php:66
+#: ../framework/widgets/widget-social.php:69
 msgid "Open links in a new tab:"
 msgstr "Открывать ссылки в новом окне"
 
-#: ../framework/widgets/widget-social.php:70
+#: ../framework/widgets/widget-social.php:73
 msgid "Gray icons without background"
 msgstr "Серые иконки без фона"
 
@@ -4985,7 +4985,7 @@ msgid "URL:"
 msgstr "URL:"
 
 #: ../framework/widgets/widget-tabbed.php:132
-#: ../framework/widgets/widget-text-html.php:72
+#: ../framework/widgets/widget-text-html.php:76
 msgid "Order of tabs:"
 msgstr "Порядок вкладок:"
 
@@ -5009,40 +5009,40 @@ msgstr "Наиболее комментируемые"
 msgid "Most Viewed"
 msgstr "Наиболее просматриваемые"
 
-#: ../framework/widgets/widget-text-html.php:72
+#: ../framework/widgets/widget-text-html.php:76
 msgid "Check this box to hide widget title and background ."
 msgstr "Установите этот флажок, чтобы скрыть название и фон виджета."
 
-#: ../framework/widgets/widget-text-html.php:79
+#: ../framework/widgets/widget-text-html.php:83
 msgid "Text , Shortcodes or HTML code:"
 msgstr "Текст, Shortcodes или HTML-код:"
 
 #: ../framework/widgets/widget-timeline.php:11
-#: ../framework/widgets/widget-timeline.php:44
+#: ../framework/widgets/widget-timeline.php:43
 msgid "Timeline"
 msgstr "Хронология"
 
-#: ../framework/widgets/widget-timeline.php:65
+#: ../framework/widgets/widget-timeline.php:63
 msgid "Category :"
 msgstr "Рубрика :"
 
-#: ../framework/widgets/widget-twitter.php:159
+#: ../framework/widgets/widget-twitter.php:158
 msgid "@Follow Me"
 msgstr "@Отслеживай меня"
 
-#: ../framework/widgets/widget-twitter.php:169
+#: ../framework/widgets/widget-twitter.php:168
 msgid "Twitter Username:"
 msgstr "Имя пользователя для Twitter:"
 
-#: ../framework/widgets/widget-twitter.php:173
+#: ../framework/widgets/widget-twitter.php:172
 msgid "Consumer key:"
 msgstr "Пользовательский ключ:"
 
-#: ../framework/widgets/widget-twitter.php:176
+#: ../framework/widgets/widget-twitter.php:175
 msgid "Consumer secret:"
 msgstr "Пользовательский секретный ключ:"
 
-#: ../framework/widgets/widget-twitter.php:180
+#: ../framework/widgets/widget-twitter.php:179
 msgid "Number of Tweets to show:"
 msgstr "Количество твитов, для показа:"
 
